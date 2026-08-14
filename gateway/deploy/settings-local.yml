@@ -1,0 +1,39 @@
+# Local API-mode settings for SearXNG.
+# Inherits everything from searx/settings.yml, overriding only what's below.
+# Used automatically by `make searxng`, or manually from the repo root with:
+#   SEARXNG_SETTINGS_PATH=gateway/deploy/settings-local.yml python -m searx.webapp
+use_default_settings: true
+
+general:
+  debug: false
+  instance_name: "local-search-api"
+
+search:
+  # THE important bit: `json` must be listed or /search?format=json returns 403.
+  formats:
+    - html
+    - json
+    - csv
+    - rss
+  safe_search: 0
+  autocomplete: ""
+
+server:
+  port: 8888
+  bind_address: "127.0.0.1"
+  # Generate your own:  openssl rand -hex 32
+  secret_key: "CHANGE_ME_openssl_rand_hex_32"
+  # No bot-blocking / rate limiting for a private local instance.
+  limiter: false
+  public_instance: false
+  image_proxy: false
+
+# No Valkey/Redis running locally, so keep it off.
+valkey:
+  url: false
+
+outgoing:
+  request_timeout: 5.0
+  max_request_timeout: 10.0
+  pool_connections: 100
+  pool_maxsize: 20

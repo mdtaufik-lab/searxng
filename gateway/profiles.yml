@@ -1,0 +1,42 @@
+# `cx` has no upstream meaning -- in Google it identifies a Custom Search Engine.
+# Here it selects a named profile: which SearXNG categories/engines to search.
+#
+# Point each of your apps at the cx that matches what it actually wants, and you
+# can retune an app's engine mix here without touching the app.
+#
+# Register your real Google cx IDs as aliases so existing code keeps working
+# unchanged -- see `aliases` below.
+
+default_cx: web
+
+profiles:
+  web:
+    title: "Web Search"
+    categories: [general]
+    engines: []          # empty = whatever the SearXNG instance enables for the category
+
+  images:
+    title: "Image Search"
+    categories: [images]
+    engines: []
+
+  news:
+    title: "News Search"
+    categories: [news]
+    engines: []
+
+  science:
+    title: "Science & Papers"
+    categories: [science]
+    engines: []
+
+  code:
+    title: "Code & IT"
+    categories: [it]
+    engines: []
+
+# Map the cx values your apps already send to a profile above, so the ONLY change
+# in your app is the base URL.
+#   aliases:
+#     "0123456789abcdef0:xyzabc123": web
+aliases: {}

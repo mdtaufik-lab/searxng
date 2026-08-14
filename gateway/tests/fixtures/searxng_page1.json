@@ -1,0 +1,962 @@
+{
+ "query": "python packaging",
+ "results": [
+  {
+   "template": "default.html",
+   "title": "Python Packaging User Guide",
+   "content": "A collection of tutorials and references to help you distribute and install Python packages with modern tools.",
+   "img_src": "",
+   "iframe_src": "",
+   "audio_src": "",
+   "thumbnail": "",
+   "publishedDate": null,
+   "pubdate": "",
+   "length": null,
+   "views": "",
+   "author": "",
+   "metadata": "",
+   "priority": "",
+   "engines": [
+    "google cse",
+    "duckduckgo"
+   ],
+   "open_group": false,
+   "close_group": false,
+   "positions": [
+    1,
+    1
+   ],
+   "score": 4.0,
+   "category": "general",
+   "url": "https://packaging.python.org/",
+   "engine": "google cse",
+   "parsed_url": [
+    "https",
+    "packaging.python.org",
+    "/",
+    "",
+    "",
+    ""
+   ]
+  },
+  {
+   "template": "default.html",
+   "title": "pypa/packaging: Core utilities for Python packages - GitHub",
+   "content": "packaging. Reusable core utilities for various Python Packaging interoperability specifications. This library provides utilities that implement the\u00a0...",
+   "img_src": "",
+   "iframe_src": "",
+   "audio_src": "",
+   "thumbnail": "",
+   "publishedDate": null,
+   "pubdate": "",
+   "length": null,
+   "views": "",
+   "author": "",
+   "metadata": "",
+   "priority": "",
+   "engines": [
+    "google cse",
+    "duckduckgo"
+   ],
+   "open_group": false,
+   "close_group": false,
+   "positions": [
+    6,
+    6
+   ],
+   "score": 0.6666666666666666,
+   "category": "general",
+   "url": "https://github.com/pypa/packaging",
+   "engine": "google cse",
+   "parsed_url": [
+    "https",
+    "github.com",
+    "/pypa/packaging",
+    "",
+    "",
+    ""
+   ]
+  },
+  {
+   "template": "default.html",
+   "title": "Packaging Python Projects",
+   "content": "This tutorial walks you through how to package a simple Python project. It will show you how to add the necessary files and structure to create the package.",
+   "img_src": "",
+   "iframe_src": "",
+   "audio_src": "",
+   "thumbnail": "",
+   "publishedDate": null,
+   "pubdate": "",
+   "length": null,
+   "views": "",
+   "author": "",
+   "metadata": "",
+   "priority": "",
+   "engines": [
+    "google cse"
+   ],
+   "open_group": false,
+   "close_group": false,
+   "positions": [
+    3
+   ],
+   "score": 0.3333333333333333,
+   "category": "general",
+   "url": "https://packaging.python.org/tutorials/packaging-projects/",
+   "engine": "google cse",
+   "parsed_url": [
+    "https",
+    "packaging.python.org",
+    "/tutorials/packaging-projects/",
+    "",
+    "",
+    ""
+   ]
+  },
+  {
+   "template": "default.html",
+   "title": "Packaging Python Projects - Python Packaging User Guide",
+   "content": "Packaging Python Projects \u00b6 This tutorial walks you through how to package a simple Python project. It will show you how to add the necessary files and structure to create the package, how to build the package, and how to upload it to the Python Package Index (PyPI).",
+   "img_src": "",
+   "iframe_src": "",
+   "audio_src": "",
+   "thumbnail": "",
+   "publishedDate": null,
+   "pubdate": "",
+   "length": null,
+   "views": "",
+   "author": "",
+   "metadata": "",
+   "priority": "",
+   "engines": [
+    "duckduckgo"
+   ],
+   "open_group": false,
+   "close_group": false,
+   "positions": [
+    3
+   ],
+   "score": 0.3333333333333333,
+   "category": "general",
+   "url": "https://packaging.python.org/en/latest/tutorials/packaging-projects/",
+   "engine": "duckduckgo",
+   "parsed_url": [
+    "https",
+    "packaging.python.org",
+    "/en/latest/tutorials/packaging-projects/",
+    "",
+    "",
+    ""
+   ]
+  },
+  {
+   "template": "default.html",
+   "title": "Python Packaging User Guide - GitHub",
+   "content": "The \"Python Packaging User Guide\" (PyPUG) aims to be the authoritative resource on how to package and install distributions in Python using current tools. To follow the development of Python packaging, see the Python Packaging Authority. Everyone interacting in the Python Packaging User Guide ...",
+   "img_src": "",
+   "iframe_src": "",
+   "audio_src": "",
+   "thumbnail": "",
+   "publishedDate": null,
+   "pubdate": "",
+   "length": null,
+   "views": "",
+   "author": "",
+   "metadata": "",
+   "priority": "",
+   "engines": [
+    "duckduckgo"
+   ],
+   "open_group": false,
+   "close_group": false,
+   "positions": [
+    5
+   ],
+   "score": 0.2,
+   "category": "general",
+   "url": "https://github.com/pypa/packaging.python.org",
+   "engine": "duckduckgo",
+   "parsed_url": [
+    "https",
+    "github.com",
+    "/pypa/packaging.python.org",
+    "",
+    "",
+    ""
+   ]
+  },
+  {
+   "template": "default.html",
+   "title": "Python Packaging Authority \u2014 PyPA documentation",
+   "content": "The Python Packaging Authority (PyPA) is a working group that maintains a core set of software projects used in Python packaging. The software developed through the PyPA is used to package, share, and install Python software and to interact with indexes of downloadable Python software such as PyPI, the Python Package Index.",
+   "img_src": "",
+   "iframe_src": "",
+   "audio_src": "",
+   "thumbnail": "",
+   "publishedDate": null,
+   "pubdate": "",
+   "length": null,
+   "views": "",
+   "author": "",
+   "metadata": "",
+   "priority": "",
+   "engines": [
+    "duckduckgo"
+   ],
+   "open_group": false,
+   "close_group": false,
+   "positions": [
+    7
+   ],
+   "score": 0.14285714285714285,
+   "category": "general",
+   "url": "https://www.pypa.io/en/latest/",
+   "engine": "duckduckgo",
+   "parsed_url": [
+    "https",
+    "www.pypa.io",
+    "/en/latest/",
+    "",
+    "",
+    ""
+   ]
+  },
+  {
+   "template": "default.html",
+   "title": "Packaging and Publishing Python code - GeeksforGeeks",
+   "content": "If you have been coding in python, even for a while, you must be familiar with the concept of 'pip' by now. It is a package management system used to install and manage software packages/libraries written in Python. Then one may ask that where are all these packages/libraries stored? It is obvious that there must be a large \"on-line repository\" which stores all this code. And the answer to ...",
+   "img_src": "",
+   "iframe_src": "",
+   "audio_src": "",
+   "thumbnail": "",
+   "publishedDate": null,
+   "pubdate": "",
+   "length": null,
+   "views": "",
+   "author": "",
+   "metadata": "",
+   "priority": "",
+   "engines": [
+    "duckduckgo"
+   ],
+   "open_group": false,
+   "close_group": false,
+   "positions": [
+    8
+   ],
+   "score": 0.125,
+   "category": "general",
+   "url": "https://www.geeksforgeeks.org/python/packaging-and-publishing-python-code/",
+   "engine": "duckduckgo",
+   "parsed_url": [
+    "https",
+    "www.geeksforgeeks.org",
+    "/python/packaging-and-publishing-python-code/",
+    "",
+    "",
+    ""
+   ]
+  },
+  {
+   "template": "default.html",
+   "title": "Simple packaging - Scientific Python Development Guide",
+   "content": "The modern way is to use the license field and an SPDX identifier expression . You can specify a list of files globs in license-files . You need hatchling>=1.26\u00a0...",
+   "img_src": "",
+   "iframe_src": "",
+   "audio_src": "",
+   "thumbnail": "",
+   "publishedDate": null,
+   "pubdate": "",
+   "length": null,
+   "views": "",
+   "author": "",
+   "metadata": "",
+   "priority": "",
+   "engines": [
+    "google cse"
+   ],
+   "open_group": false,
+   "close_group": false,
+   "positions": [
+    9
+   ],
+   "score": 0.1111111111111111,
+   "category": "general",
+   "url": "https://learn.scientific-python.org/development/guides/packaging-simple/",
+   "engine": "google cse",
+   "parsed_url": [
+    "https",
+    "learn.scientific-python.org",
+    "/development/guides/packaging-simple/",
+    "",
+    "",
+    ""
+   ]
+  },
+  {
+   "template": "default.html",
+   "title": "Packaging Your Code \u2014 The Hitchhiker's Guide to Python",
+   "content": "This is fine when distributing to other developers, but makes this method unsuitable for distributing applications to end-users. The Python Packaging Guide provides an extensive guide on creating and maintaining Python packages.",
+   "img_src": "",
+   "iframe_src": "",
+   "audio_src": "",
+   "thumbnail": "",
+   "publishedDate": null,
+   "pubdate": "",
+   "length": null,
+   "views": "",
+   "author": "",
+   "metadata": "",
+   "priority": "",
+   "engines": [
+    "duckduckgo"
+   ],
+   "open_group": false,
+   "close_group": false,
+   "positions": [
+    10
+   ],
+   "score": 0.1,
+   "category": "general",
+   "url": "https://docs.python-guide.org/shipping/packaging/",
+   "engine": "duckduckgo",
+   "parsed_url": [
+    "https",
+    "docs.python-guide.org",
+    "/shipping/packaging/",
+    "",
+    "",
+    ""
+   ]
+  },
+  {
+   "template": "default.html",
+   "title": "packaging - PyPI",
+   "content": "Reusable core utilities for various Python Packaging interoperability specifications. This library provides utilities that implement the interoperability\u00a0...",
+   "img_src": "",
+   "iframe_src": "",
+   "audio_src": "",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTnLe1uZ3ih6P6CvPhmim9lqVC_SNyswl4Qaedm3gE_xMx-vzmBWW_qCBcA",
+   "publishedDate": null,
+   "pubdate": "",
+   "length": null,
+   "views": "",
+   "author": "",
+   "metadata": "",
+   "priority": "",
+   "engines": [
+    "google cse",
+    "duckduckgo"
+   ],
+   "open_group": false,
+   "close_group": false,
+   "positions": [
+    2,
+    2
+   ],
+   "score": 2.0,
+   "category": "general",
+   "url": "https://pypi.org/project/packaging/",
+   "engine": "google cse",
+   "parsed_url": [
+    "https",
+    "pypi.org",
+    "/project/packaging/",
+    "",
+    "",
+    ""
+   ]
+  },
+  {
+   "template": "default.html",
+   "title": "PyPI \u00b7 The Python Package Index",
+   "content": "Find, install and publish Python packages with the Python Package Index ... The Python Package Index (PyPI) is a repository of software for the Python programming\u00a0...",
+   "img_src": "",
+   "iframe_src": "",
+   "audio_src": "",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTnLe1uZ3ih6P6CvPhmim9lqVC_SNyswl4Qaedm3gE_xMx-vzmBWW_qCBcA",
+   "publishedDate": null,
+   "pubdate": "",
+   "length": null,
+   "views": "",
+   "author": "",
+   "metadata": "",
+   "priority": "",
+   "engines": [
+    "google cse",
+    "duckduckgo"
+   ],
+   "open_group": false,
+   "close_group": false,
+   "positions": [
+    14,
+    4
+   ],
+   "score": 0.6428571428571428,
+   "category": "general",
+   "url": "https://pypi.org/",
+   "engine": "google cse",
+   "parsed_url": [
+    "https",
+    "pypi.org",
+    "/",
+    "",
+    "",
+    ""
+   ]
+  },
+  {
+   "template": "default.html",
+   "title": "Python packaging 101 \u2014 Python Packaging Guide",
+   "content": "Python packaging 101 # A start to finish beginner-friendly tutorial Welcome to the pyOpenSci Python packaging tutorial series. The lessons on the upcoming pages walk you through the core steps needed to create a Python package. This lesson is the first in a series of lessons to help you get started with Python packaging. # Who are these tutorials for? # The content in this tutorial series is ...",
+   "img_src": "",
+   "iframe_src": "",
+   "audio_src": "",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTovEQWhTR6u2aLlebbiE4shLRNINXO-me32HumnzmMrweX8pJZxCBXBoI",
+   "publishedDate": null,
+   "pubdate": "",
+   "length": null,
+   "views": "",
+   "author": "",
+   "metadata": "",
+   "priority": "",
+   "engines": [
+    "google cse",
+    "duckduckgo"
+   ],
+   "open_group": false,
+   "close_group": false,
+   "positions": [
+    11,
+    9
+   ],
+   "score": 0.40404040404040403,
+   "category": "general",
+   "url": "https://www.pyopensci.org/python-package-guide/tutorials/intro.html",
+   "engine": "google cse",
+   "parsed_url": [
+    "https",
+    "www.pyopensci.org",
+    "/python-package-guide/tutorials/intro.html",
+    "",
+    "",
+    ""
+   ]
+  },
+  {
+   "template": "default.html",
+   "title": "Packaging Python Projects \u2014 Supplement 2024 | by John Tucker",
+   "content": "17 Oct 2024 ... The first step towards sharing a Python library or program is to build a distribution package [1]. This includes adding a set of additional files containing\u00a0...",
+   "img_src": "",
+   "iframe_src": "",
+   "audio_src": "",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRcl2kDehEuHiRtJ9J2D4C8LDbgcfaReacMNCo7rEXgSWQ0GVVVo0OLO2c",
+   "publishedDate": null,
+   "pubdate": "",
+   "length": null,
+   "views": "",
+   "author": "",
+   "metadata": "",
+   "priority": "",
+   "engines": [
+    "google cse"
+   ],
+   "open_group": false,
+   "close_group": false,
+   "positions": [
+    4
+   ],
+   "score": 0.25,
+   "category": "general",
+   "url": "https://john-tucker.medium.com/packaging-python-projects-supplement-2024-5c22b9d0e7b6",
+   "engine": "google cse",
+   "parsed_url": [
+    "https",
+    "john-tucker.medium.com",
+    "/packaging-python-projects-supplement-2024-5c22b9d0e7b6",
+    "",
+    "",
+    ""
+   ]
+  },
+  {
+   "template": "default.html",
+   "title": "Python Packages - GeeksforGeeks",
+   "content": "6 Apr 2026 ... Python Packages \u00b7 Creating and Accessing Packages \u00b7 Example \u00b7 Python Packages for Web Frameworks \u00b7 Python Packages for AI & Machine Learning \u00b7 Python\u00a0...",
+   "img_src": "",
+   "iframe_src": "",
+   "audio_src": "",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTVJnTWj6XbHRAopejwewwnAWaetCTlmr0jTmxmkllXG_jS27t2zg3Wjis",
+   "publishedDate": null,
+   "pubdate": "",
+   "length": null,
+   "views": "",
+   "author": "",
+   "metadata": "",
+   "priority": "",
+   "engines": [
+    "google cse"
+   ],
+   "open_group": false,
+   "close_group": false,
+   "positions": [
+    5
+   ],
+   "score": 0.2,
+   "category": "general",
+   "url": "https://www.geeksforgeeks.org/python/python-packages/",
+   "engine": "google cse",
+   "parsed_url": [
+    "https",
+    "www.geeksforgeeks.org",
+    "/python/python-packages/",
+    "",
+    "",
+    ""
+   ]
+  },
+  {
+   "template": "default.html",
+   "title": "A Guide to Python Packaging - The odd dataguy",
+   "content": "24 Mar 2026 ... Source Code Organization \u00b7 Imports are limited to what's needed, no from xxx import * \u00b7 Imports are in alphabetical order \u00b7 Each function/class\u00a0...",
+   "img_src": "",
+   "iframe_src": "",
+   "audio_src": "",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTJqdz0Ry9hx72EWGRY534ydKXPM9JNHCqHQpFss4mp5Qhyizw6pJHBbpg",
+   "publishedDate": null,
+   "pubdate": "",
+   "length": null,
+   "views": "",
+   "author": "",
+   "metadata": "",
+   "priority": "",
+   "engines": [
+    "google cse"
+   ],
+   "open_group": false,
+   "close_group": false,
+   "positions": [
+    7
+   ],
+   "score": 0.14285714285714285,
+   "category": "general",
+   "url": "https://www.the-odd-dataguy.com/en/blog/2026/03/24/python-package-how-to/",
+   "engine": "google cse",
+   "parsed_url": [
+    "https",
+    "www.the-odd-dataguy.com",
+    "/en/blog/2026/03/24/python-package-how-to/",
+    "",
+    "",
+    ""
+   ]
+  },
+  {
+   "template": "default.html",
+   "title": "Welcome to Python Packages! \u2014 Python Packages",
+   "content": "Python Packages is an open source book that describes modern and efficient workflows for creating Python packages.",
+   "img_src": "",
+   "iframe_src": "",
+   "audio_src": "",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRmx_FWfzKtuWU8wyD_WHeaxxSH3TDE5dZUyZyx2KOFl8pRidmTudFbJT_A",
+   "publishedDate": null,
+   "pubdate": "",
+   "length": null,
+   "views": "",
+   "author": "",
+   "metadata": "",
+   "priority": "",
+   "engines": [
+    "google cse"
+   ],
+   "open_group": false,
+   "close_group": false,
+   "positions": [
+    8
+   ],
+   "score": 0.125,
+   "category": "general",
+   "url": "https://py-pkgs.org/",
+   "engine": "google cse",
+   "parsed_url": [
+    "https",
+    "py-pkgs.org",
+    "/",
+    "",
+    "",
+    ""
+   ]
+  },
+  {
+   "template": "default.html",
+   "title": "How to Package and Publish Python Code the Right Way - YouTube",
+   "content": "3 Mar 2023 ... Review code better and faster with my 3-Factor Framework: https://arjan.codes/diagnosis. Do you want to know how to build a complete Python\u00a0...",
+   "img_src": "",
+   "iframe_src": "",
+   "audio_src": "",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTrCexo7jeyFjq9-YWbxchWv6Sq78C9gwOKG_u5pHzajHLJC_ZAZTkN9Ko",
+   "publishedDate": null,
+   "pubdate": "",
+   "length": null,
+   "views": "",
+   "author": "",
+   "metadata": "",
+   "priority": "",
+   "engines": [
+    "google cse"
+   ],
+   "open_group": false,
+   "close_group": false,
+   "positions": [
+    10
+   ],
+   "score": 0.1,
+   "category": "general",
+   "url": "https://www.youtube.com/watch?v=5KEObONUkik",
+   "engine": "google cse",
+   "parsed_url": [
+    "https",
+    "www.youtube.com",
+    "/watch",
+    "",
+    "v=5KEObONUkik",
+    ""
+   ]
+  },
+  {
+   "template": "default.html",
+   "title": "Python Packaging Authority \u2014 PyPA documentation",
+   "content": "The Python Packaging Authority (PyPA) is a working group that maintains a core set of software projects used in Python packaging. The software developed through\u00a0...",
+   "img_src": "",
+   "iframe_src": "",
+   "audio_src": "",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSSDfbLjX_8gnDTJcdBL19u4P-mNa6CjXUXtOKhErbgo4Prrd6aVE-Nob4R",
+   "publishedDate": null,
+   "pubdate": "",
+   "length": null,
+   "views": "",
+   "author": "",
+   "metadata": "",
+   "priority": "",
+   "engines": [
+    "google cse"
+   ],
+   "open_group": false,
+   "close_group": false,
+   "positions": [
+    12
+   ],
+   "score": 0.08333333333333333,
+   "category": "general",
+   "url": "https://www.pypa.io/",
+   "engine": "google cse",
+   "parsed_url": [
+    "https",
+    "www.pypa.io",
+    "/",
+    "",
+    "",
+    ""
+   ]
+  },
+  {
+   "template": "default.html",
+   "title": "The Basics of Python Packaging in Early 2023 - DrivenData",
+   "content": "9 Mar 2023 ... Packaging refers to the general activity of creating and distributing Python packages, which are bundles of Python code (usually as a compressed file archive)",
+   "img_src": "",
+   "iframe_src": "",
+   "audio_src": "",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT-eSx812VLA25L5u6HoSnfshHf4ZthJS03mBYl71elktyUzhowE5SeaCQ",
+   "publishedDate": null,
+   "pubdate": "",
+   "length": null,
+   "views": "",
+   "author": "",
+   "metadata": "",
+   "priority": "",
+   "engines": [
+    "google cse"
+   ],
+   "open_group": false,
+   "close_group": false,
+   "positions": [
+    13
+   ],
+   "score": 0.07692307692307693,
+   "category": "general",
+   "url": "https://drivendata.co/blog/python-packaging-2023",
+   "engine": "google cse",
+   "parsed_url": [
+    "https",
+    "drivendata.co",
+    "/blog/python-packaging-2023",
+    "",
+    "",
+    ""
+   ]
+  },
+  {
+   "template": "default.html",
+   "title": "Python Packaging Guidelines - Fedora Docs",
+   "content": "Every package that uses Python (at run-time and/or build-time) and/or installs Python modules MUST have a build-time dependency on python3-devel.",
+   "img_src": "",
+   "iframe_src": "",
+   "audio_src": "",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSQBm7e1dRmUvZvkf8ludJEHw_bEtIK2HcuPT-fSD7sjt3yM0GAGSxwNQ",
+   "publishedDate": null,
+   "pubdate": "",
+   "length": null,
+   "views": "",
+   "author": "",
+   "metadata": "",
+   "priority": "",
+   "engines": [
+    "google cse"
+   ],
+   "open_group": false,
+   "close_group": false,
+   "positions": [
+    17
+   ],
+   "score": 0.058823529411764705,
+   "category": "general",
+   "url": "https://docs.fedoraproject.org/en-US/packaging-guidelines/Python/",
+   "engine": "google cse",
+   "parsed_url": [
+    "https",
+    "docs.fedoraproject.org",
+    "/en-US/packaging-guidelines/Python/",
+    "",
+    "",
+    ""
+   ]
+  },
+  {
+   "template": "default.html",
+   "title": "Publish Your Own Python Package in Less Than 10 Minutes",
+   "content": "16 Jun 2025 ... In this video we learn how to easily publish your own Python package in less than 10 minutes using uv. PyPI: https://pypi.org/\u00a0...",
+   "img_src": "",
+   "iframe_src": "",
+   "audio_src": "",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQWaK8xig5clWXmg3qtgwG5mDfAankzAuqhR8ym9KB4_nVgfT_IMAbbXli7",
+   "publishedDate": null,
+   "pubdate": "",
+   "length": null,
+   "views": "",
+   "author": "",
+   "metadata": "",
+   "priority": "",
+   "engines": [
+    "google cse"
+   ],
+   "open_group": false,
+   "close_group": false,
+   "positions": [
+    18
+   ],
+   "score": 0.05555555555555555,
+   "category": "general",
+   "url": "https://www.youtube.com/watch?v=rM1SqONoPXs",
+   "engine": "google cse",
+   "parsed_url": [
+    "https",
+    "www.youtube.com",
+    "/watch",
+    "",
+    "v=rM1SqONoPXs",
+    ""
+   ]
+  },
+  {
+   "template": "default.html",
+   "title": "Advanced Python: Python packaging. Pip install your scripts! - Udemy",
+   "content": "In this course you will learn one of the most advanced topics in python: How to create a python package that can be pip installed.",
+   "img_src": "",
+   "iframe_src": "",
+   "audio_src": "",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRJMIzbq_Gs3_XxfuL_WuVFDJr21tNB0SuIJe5bvA0YKoaBlOxe0wtC0CQF",
+   "publishedDate": null,
+   "pubdate": "",
+   "length": null,
+   "views": "",
+   "author": "",
+   "metadata": "",
+   "priority": "",
+   "engines": [
+    "google cse"
+   ],
+   "open_group": false,
+   "close_group": false,
+   "positions": [
+    20
+   ],
+   "score": 0.05,
+   "category": "general",
+   "url": "https://www.udemy.com/course/python-packaging/",
+   "engine": "google cse",
+   "parsed_url": [
+    "https",
+    "www.udemy.com",
+    "/course/python-packaging/",
+    "",
+    "",
+    ""
+   ]
+  },
+  {
+   "template": "default.html",
+   "title": "I am frustrated with packaging python, please educate me. - Reddit",
+   "content": "16 Nov 2021 ... I hate python and everything about it. Because it seems there is no proper way of packing a python application. And people are doing all kinds of crazy shit.",
+   "img_src": "",
+   "iframe_src": "",
+   "audio_src": "",
+   "thumbnail": "",
+   "publishedDate": null,
+   "pubdate": "",
+   "length": null,
+   "views": "",
+   "author": "",
+   "metadata": "",
+   "priority": "",
+   "engines": [
+    "google cse"
+   ],
+   "open_group": false,
+   "close_group": false,
+   "positions": [
+    15
+   ],
+   "score": 0.06666666666666667,
+   "category": "general",
+   "url": "https://www.reddit.com/r/Python/comments/qv1zwc/i_am_frustrated_with_packaging_python_please/",
+   "engine": "google cse",
+   "parsed_url": [
+    "https",
+    "www.reddit.com",
+    "/r/Python/comments/qv1zwc/i_am_frustrated_with_packaging_python_please/",
+    "",
+    "",
+    ""
+   ]
+  },
+  {
+   "template": "default.html",
+   "title": "Python packaging | Veracode Docs",
+   "content": "5 May 2026 ... To detect Lambda function handlers for Python, Veracode accepts the YAML and YML configuration files included as part of the uploaded package\u00a0...",
+   "img_src": "",
+   "iframe_src": "",
+   "audio_src": "",
+   "thumbnail": "",
+   "publishedDate": null,
+   "pubdate": "",
+   "length": null,
+   "views": "",
+   "author": "",
+   "metadata": "",
+   "priority": "",
+   "engines": [
+    "google cse"
+   ],
+   "open_group": false,
+   "close_group": false,
+   "positions": [
+    16
+   ],
+   "score": 0.0625,
+   "category": "general",
+   "url": "https://docs.veracode.com/r/compilation_python",
+   "engine": "google cse",
+   "parsed_url": [
+    "https",
+    "docs.veracode.com",
+    "/r/compilation_python",
+    "",
+    "",
+    ""
+   ]
+  },
+  {
+   "template": "default.html",
+   "title": "A Look Back at 2023 in Python Packaging | Chris Warrick",
+   "content": "15 Jan 2024 ... The syntax is simpler, there are no confusing leftovers from C (like the index-based for loop) or machine-level code (like break in switch ), no\u00a0...",
+   "img_src": "",
+   "iframe_src": "",
+   "audio_src": "",
+   "thumbnail": "",
+   "publishedDate": null,
+   "pubdate": "",
+   "length": null,
+   "views": "",
+   "author": "",
+   "metadata": "",
+   "priority": "",
+   "engines": [
+    "google cse"
+   ],
+   "open_group": false,
+   "close_group": false,
+   "positions": [
+    19
+   ],
+   "score": 0.05263157894736842,
+   "category": "general",
+   "url": "https://chriswarrick.com/blog/2024/01/15/python-packaging-one-year-later/",
+   "engine": "google cse",
+   "parsed_url": [
+    "https",
+    "chriswarrick.com",
+    "/blog/2024/01/15/python-packaging-one-year-later/",
+    "",
+    "",
+    ""
+   ]
+  }
+ ],
+ "answers": [],
+ "corrections": [],
+ "infoboxes": [
+  {
+   "infobox": "Python Packaging Authority",
+   "id": "https://www.wikidata.org/entity/Q113575558",
+   "content": "working group which maintains utilities used in packaging Python projects",
+   "img_src": null,
+   "urls": [
+    {
+     "title": "P856",
+     "url": "https://www.pypa.io/en/latest/",
+     "official": true
+    },
+    {
+     "title": "Wikidata",
+     "url": "http://www.wikidata.org/entity/Q113575558"
+    }
+   ],
+   "attributes": [],
+   "engine": "wikidata",
+   "url": null,
+   "template": "default.html",
+   "parsed_url": null,
+   "title": "",
+   "thumbnail": "",
+   "priority": "",
+   "engines": [
+    "wikidata"
+   ],
+   "positions": "",
+   "score": 0,
+   "category": "",
+   "publishedDate": null
+  }
+ ],
+ "suggestions": [],
+ "unresponsive_engines": [
+  [
+   "brave",
+   "too many requests"
+  ],
+  [
+   "startpage",
+   "Suspended: CAPTCHA"
+  ]
+ ]
+}

@@ -1,0 +1,22 @@
+# VPS deployment. Caddy terminates TLS and forwards to the gateway ONLY.
+#
+# The critical property: SearXNG (:8888) is NOT proxied and is NOT reachable from
+# the internet. It has no authentication of any kind -- anyone who can reach it
+# can run unlimited searches through your IP. The gateway is the only public door.
+
+search.example.com {
+	encode gzip
+
+	# The gateway is the only thing exposed.
+	reverse_proxy 127.0.0.1:8080 {
+		header_up X-Real-IP {remote_host}
+	}
+
+	# Defence in depth: even if a route were misconfigured, these never leave the box.
+	@private path /admin/*
+	respond @private 404
+
+	log {
+		output file /var/log/caddy/search.log
+	}
+}

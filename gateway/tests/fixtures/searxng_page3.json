@@ -1,0 +1,1279 @@
+{
+ "query": "python packaging",
+ "results": [
+  {
+   "template": "default.html",
+   "title": "The ultimate guide to creating a secure Python package - Snyk",
+   "content": "8 May 2024 ... This guide will detail all the steps to build a modern Python package. You can find the code required to follow this tutorial in this GitHub repository.",
+   "img_src": "",
+   "iframe_src": "",
+   "audio_src": "",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTMFUweSWAJoNMY59rbL0A8WVwBXwnUDYsZAttDIgby_xF8LpiW0g0SMdE",
+   "publishedDate": null,
+   "pubdate": "",
+   "length": null,
+   "views": "",
+   "author": "",
+   "metadata": "",
+   "priority": "",
+   "engines": [
+    "google cse"
+   ],
+   "open_group": false,
+   "close_group": false,
+   "positions": [
+    1
+   ],
+   "score": 1.0,
+   "category": "general",
+   "url": "https://snyk.io/blog/ultimate-guide-creating-secure-python-package/",
+   "engine": "google cse",
+   "parsed_url": [
+    "https",
+    "snyk.io",
+    "/blog/ultimate-guide-creating-secure-python-package/",
+    "",
+    "",
+    ""
+   ]
+  },
+  {
+   "template": "default.html",
+   "title": "How to improve Python packaging, or why fourteen tools are at least ...",
+   "content": "15 Jan 2023 ... I think PDM probably has the highest user satisfaction among all Python packaging tools. Here's an article I wrote to describe my workflow.",
+   "img_src": "",
+   "iframe_src": "",
+   "audio_src": "",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRC-MET6Zp1tUp5U6pUWL8nhI5uRjBJBO430ii5soEYDCRywsLVctPHOqY_",
+   "publishedDate": null,
+   "pubdate": "",
+   "length": null,
+   "views": "",
+   "author": "",
+   "metadata": "",
+   "priority": "",
+   "engines": [
+    "google cse"
+   ],
+   "open_group": false,
+   "close_group": false,
+   "positions": [
+    2
+   ],
+   "score": 0.5,
+   "category": "general",
+   "url": "https://www.reddit.com/r/Python/comments/10cnx5i/how_to_improve_python_packaging_or_why_fourteen/",
+   "engine": "google cse",
+   "parsed_url": [
+    "https",
+    "www.reddit.com",
+    "/r/Python/comments/10cnx5i/how_to_improve_python_packaging_or_why_fourteen/",
+    "",
+    "",
+    ""
+   ]
+  },
+  {
+   "template": "default.html",
+   "title": "Create Your First Python Package Tutorial - YouTube",
+   "content": "14 Apr 2025 ... Learn how to turn your Python code into a reusable package with Hatch! From setup to installation, this beginner-friendly tutorial walks you\u00a0...",
+   "img_src": "",
+   "iframe_src": "",
+   "audio_src": "",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSKK1TYUCgi-OhQGRMZvealQOgLn165iPIa9EYiuJ9hkKPUN9Ze6R1g-RA",
+   "publishedDate": null,
+   "pubdate": "",
+   "length": null,
+   "views": "",
+   "author": "",
+   "metadata": "",
+   "priority": "",
+   "engines": [
+    "google cse"
+   ],
+   "open_group": false,
+   "close_group": false,
+   "positions": [
+    4
+   ],
+   "score": 0.25,
+   "category": "general",
+   "url": "https://www.youtube.com/watch?v=XAq-HnPU4XM",
+   "engine": "google cse",
+   "parsed_url": [
+    "https",
+    "www.youtube.com",
+    "/watch",
+    "",
+    "v=XAq-HnPU4XM",
+    ""
+   ]
+  },
+  {
+   "template": "default.html",
+   "title": "Relieving your Python packaging pain - Bite code!",
+   "content": "27 Mar 2023 ... You can protect yourself against a lot of packaging pain by sticking to one recipe for installing and running Python.",
+   "img_src": "",
+   "iframe_src": "",
+   "audio_src": "",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQZXYXCfniNO9AMxgOimCu4PdPZv7zfJwti7zAw0ha4NBeZacCn4AR-ZIua",
+   "publishedDate": null,
+   "pubdate": "",
+   "length": null,
+   "views": "",
+   "author": "",
+   "metadata": "",
+   "priority": "",
+   "engines": [
+    "google cse"
+   ],
+   "open_group": false,
+   "close_group": false,
+   "positions": [
+    5
+   ],
+   "score": 0.2,
+   "category": "general",
+   "url": "https://www.bitecode.dev/p/relieving-your-python-packaging-pain",
+   "engine": "google cse",
+   "parsed_url": [
+    "https",
+    "www.bitecode.dev",
+    "/p/relieving-your-python-packaging-pain",
+    "",
+    "",
+    ""
+   ]
+  },
+  {
+   "template": "default.html",
+   "title": "Simplify Your Python Development with Poetry's Packaging and ...",
+   "content": "7 May 2023 ... it simplifies the process of managing dependencies and packaging Python projects, allowing us to focus on what really matters \u2014 writing code\u00a0...",
+   "img_src": "",
+   "iframe_src": "",
+   "audio_src": "",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS2hTNPGlNywg8fRpEucMlazwLQ_XOsG8FjEuIk0s0sR31Txi7U2YDPQyI",
+   "publishedDate": null,
+   "pubdate": "",
+   "length": null,
+   "views": "",
+   "author": "",
+   "metadata": "",
+   "priority": "",
+   "engines": [
+    "google cse"
+   ],
+   "open_group": false,
+   "close_group": false,
+   "positions": [
+    6
+   ],
+   "score": 0.16666666666666666,
+   "category": "general",
+   "url": "https://levelup.gitconnected.com/simplify-your-python-development-with-poetrys-packaging-and-dependency-management-9d8b181f926f",
+   "engine": "google cse",
+   "parsed_url": [
+    "https",
+    "levelup.gitconnected.com",
+    "/simplify-your-python-development-with-poetrys-packaging-and-dependency-management-9d8b181f926f",
+    "",
+    "",
+    ""
+   ]
+  },
+  {
+   "template": "default.html",
+   "title": "Publishing a Python package - CircleCI",
+   "content": "20 Dec 2024 ... In this tutorial, you will build a simple Python package and create a continuous integration (CI) pipeline for it.",
+   "img_src": "",
+   "iframe_src": "",
+   "audio_src": "",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS1cYtyl2xvsELP4R10cy7NfgBEqdVl3JxLL9_xAOv7-ZSlXSTu_WLQ4rI",
+   "publishedDate": null,
+   "pubdate": "",
+   "length": null,
+   "views": "",
+   "author": "",
+   "metadata": "",
+   "priority": "",
+   "engines": [
+    "google cse"
+   ],
+   "open_group": false,
+   "close_group": false,
+   "positions": [
+    7
+   ],
+   "score": 0.14285714285714285,
+   "category": "general",
+   "url": "https://circleci.com/blog/publishing-a-python-package/",
+   "engine": "google cse",
+   "parsed_url": [
+    "https",
+    "circleci.com",
+    "/blog/publishing-a-python-package/",
+    "",
+    "",
+    ""
+   ]
+  },
+  {
+   "template": "default.html",
+   "title": "Python Tutorial Part 2 - Package management | Prof. E. Kiss, HS KL",
+   "content": "Python packages are class and function libraries, i.e. groupings of classes and functions for defined areas of application. A package is simply a directory that\u00a0...",
+   "img_src": "",
+   "iframe_src": "",
+   "audio_src": "",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRLBGtsWx7ibc3Z1FTKaxkVR0LHChACQI86xAgxKOS70p3YNejaNjeixp8",
+   "publishedDate": null,
+   "pubdate": "",
+   "length": null,
+   "views": "",
+   "author": "",
+   "metadata": "",
+   "priority": "",
+   "engines": [
+    "google cse"
+   ],
+   "open_group": false,
+   "close_group": false,
+   "positions": [
+    13
+   ],
+   "score": 0.07692307692307693,
+   "category": "general",
+   "url": "https://www.evamariakiss.de/tutorial/python/package-management.php",
+   "engine": "google cse",
+   "parsed_url": [
+    "https",
+    "www.evamariakiss.de",
+    "/tutorial/python/package-management.php",
+    "",
+    "",
+    ""
+   ]
+  },
+  {
+   "template": "default.html",
+   "title": "Python Modules and Packages \u2013 An Introduction",
+   "content": "17 Apr 2018 ... This article explores Python modules and Python packages, two mechanisms that facilitate modular programming.",
+   "img_src": "",
+   "iframe_src": "",
+   "audio_src": "",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRcfA0DKLKQHrci9St0iIv-mmgSvAXiaNiOzANRNMJm-AH9J1EW5kVosKx_",
+   "publishedDate": null,
+   "pubdate": "",
+   "length": null,
+   "views": "",
+   "author": "",
+   "metadata": "",
+   "priority": "",
+   "engines": [
+    "google cse"
+   ],
+   "open_group": false,
+   "close_group": false,
+   "positions": [
+    14
+   ],
+   "score": 0.07142857142857142,
+   "category": "general",
+   "url": "https://realpython.com/python-modules-packages/",
+   "engine": "google cse",
+   "parsed_url": [
+    "https",
+    "realpython.com",
+    "/python-modules-packages/",
+    "",
+    "",
+    ""
+   ]
+  },
+  {
+   "template": "default.html",
+   "title": "Python Release Python 3.11.0 | Python.org",
+   "content": "Python 3.11.0 is the newest major release of the Python programming language, and it contains many new features and optimizations. Major new features of the 3.11 series, compared to 3.10",
+   "img_src": "",
+   "iframe_src": "",
+   "audio_src": "",
+   "thumbnail": "",
+   "publishedDate": null,
+   "pubdate": "",
+   "length": null,
+   "views": "",
+   "author": "",
+   "metadata": "",
+   "priority": "",
+   "engines": [
+    "duckduckgo"
+   ],
+   "open_group": false,
+   "close_group": false,
+   "positions": [
+    1
+   ],
+   "score": 1.0,
+   "category": "general",
+   "url": "https://www.python.org/downloads/release/python-3110/",
+   "engine": "duckduckgo",
+   "parsed_url": [
+    "https",
+    "www.python.org",
+    "/downloads/release/python-3110/",
+    "",
+    "",
+    ""
+   ]
+  },
+  {
+   "template": "default.html",
+   "title": "Python Release Python 3.12.0 | Python.org",
+   "content": "This is the stable release of Python 3.12.0 Python 3.12.0 is the newest major release of the Python programming language, and it contains many new features and optimizations. Major new features of the 3.12 series, compared to 3.11 New features More flexible f-string parsing, allowing many things previously disallowed (PEP 701).",
+   "img_src": "",
+   "iframe_src": "",
+   "audio_src": "",
+   "thumbnail": "",
+   "publishedDate": null,
+   "pubdate": "",
+   "length": null,
+   "views": "",
+   "author": "",
+   "metadata": "",
+   "priority": "",
+   "engines": [
+    "duckduckgo"
+   ],
+   "open_group": false,
+   "close_group": false,
+   "positions": [
+    2
+   ],
+   "score": 0.5,
+   "category": "general",
+   "url": "https://www.python.org/downloads/release/python-3120/",
+   "engine": "duckduckgo",
+   "parsed_url": [
+    "https",
+    "www.python.org",
+    "/downloads/release/python-3120/",
+    "",
+    "",
+    ""
+   ]
+  },
+  {
+   "template": "default.html",
+   "title": "Python/LibraryStyleGuide - Debian Wiki",
+   "content": "19 Dec 2025 ... This page captures in example form the best practices for simple Python modules as can be found on the Python Package Index (PyPI). A few\u00a0...",
+   "img_src": "",
+   "iframe_src": "",
+   "audio_src": "",
+   "thumbnail": "",
+   "publishedDate": null,
+   "pubdate": "",
+   "length": null,
+   "views": "",
+   "author": "",
+   "metadata": "",
+   "priority": "",
+   "engines": [
+    "google cse"
+   ],
+   "open_group": false,
+   "close_group": false,
+   "positions": [
+    3
+   ],
+   "score": 0.3333333333333333,
+   "category": "general",
+   "url": "https://wiki.debian.org/Python/LibraryStyleGuide",
+   "engine": "google cse",
+   "parsed_url": [
+    "https",
+    "wiki.debian.org",
+    "/Python/LibraryStyleGuide",
+    "",
+    "",
+    ""
+   ]
+  },
+  {
+   "template": "default.html",
+   "title": "How to list all installed packages and their versions in Python?",
+   "content": "Is there a way in Python to list all installed packages and their versions? I know I can go inside python/Lib/site-packages and see what files and directories exist, but I find this very awkward. ...",
+   "img_src": "",
+   "iframe_src": "",
+   "audio_src": "",
+   "thumbnail": "",
+   "publishedDate": null,
+   "pubdate": "",
+   "length": null,
+   "views": "",
+   "author": "",
+   "metadata": "",
+   "priority": "",
+   "engines": [
+    "duckduckgo"
+   ],
+   "open_group": false,
+   "close_group": false,
+   "positions": [
+    3
+   ],
+   "score": 0.3333333333333333,
+   "category": "general",
+   "url": "https://stackoverflow.com/questions/12939975/how-to-list-all-installed-packages-and-their-versions-in-python",
+   "engine": "duckduckgo",
+   "parsed_url": [
+    "https",
+    "stackoverflow.com",
+    "/questions/12939975/how-to-list-all-installed-packages-and-their-versions-in-python",
+    "",
+    "",
+    ""
+   ]
+  },
+  {
+   "template": "default.html",
+   "title": "Distributing Python Modules",
+   "content": "Note. Information and guidance on distributing Python modules and packages has been moved to the Python Packaging User Guide, and the tutorial on packaging Python projects.",
+   "img_src": "",
+   "iframe_src": "",
+   "audio_src": "",
+   "thumbnail": "",
+   "publishedDate": null,
+   "pubdate": "",
+   "length": null,
+   "views": "",
+   "author": "",
+   "metadata": "",
+   "priority": "",
+   "engines": [
+    "duckduckgo"
+   ],
+   "open_group": false,
+   "close_group": false,
+   "positions": [
+    4
+   ],
+   "score": 0.25,
+   "category": "general",
+   "url": "https://docs.python.org/3/distributing/index.html",
+   "engine": "duckduckgo",
+   "parsed_url": [
+    "https",
+    "docs.python.org",
+    "/3/distributing/index.html",
+    "",
+    "",
+    ""
+   ]
+  },
+  {
+   "template": "default.html",
+   "title": "GitHub - tpaviot/pythonocc-core: Python package for 3D geometry CAD/BIM/CAM",
+   "content": "Python package for 3D geometry CAD/BIM/CAM. Contribute to tpaviot/pythonocc-core development by creating an account on GitHub.",
+   "img_src": "",
+   "iframe_src": "",
+   "audio_src": "",
+   "thumbnail": "",
+   "publishedDate": null,
+   "pubdate": "",
+   "length": null,
+   "views": "",
+   "author": "",
+   "metadata": "",
+   "priority": "",
+   "engines": [
+    "duckduckgo"
+   ],
+   "open_group": false,
+   "close_group": false,
+   "positions": [
+    5
+   ],
+   "score": 0.2,
+   "category": "general",
+   "url": "https://github.com/tpaviot/pythonocc-core",
+   "engine": "duckduckgo",
+   "parsed_url": [
+    "https",
+    "github.com",
+    "/tpaviot/pythonocc-core",
+    "",
+    "",
+    ""
+   ]
+  },
+  {
+   "template": "default.html",
+   "title": "How to Use uv Python Package Manager (Complete 2026)",
+   "content": "uv is the Python package manager that changed how I work in 2025-2026. Built by Astral (creators of Ruff), uv is 10-100x faster than pip, poetry, or pipenv, and it manages everything, projects, virtual environments, Python versions, and dependencies, from a single tool. This complete 2026 tutorial covers install, setup, and daily use.",
+   "img_src": "",
+   "iframe_src": "",
+   "audio_src": "",
+   "thumbnail": "",
+   "publishedDate": null,
+   "pubdate": "",
+   "length": null,
+   "views": "",
+   "author": "",
+   "metadata": "",
+   "priority": "",
+   "engines": [
+    "duckduckgo"
+   ],
+   "open_group": false,
+   "close_group": false,
+   "positions": [
+    6
+   ],
+   "score": 0.16666666666666666,
+   "category": "general",
+   "url": "https://itsourcecode.com/blogs/how-to-use-uv-python-package-manager-2026/",
+   "engine": "duckduckgo",
+   "parsed_url": [
+    "https",
+    "itsourcecode.com",
+    "/blogs/how-to-use-uv-python-package-manager-2026/",
+    "",
+    "",
+    ""
+   ]
+  },
+  {
+   "template": "default.html",
+   "title": "Python 3 Installation and Setup Guide",
+   "content": "We provided a step-by-step guide on how to install and set up Python 3 on your local machine. The installation, install Python packages .",
+   "img_src": "",
+   "iframe_src": "",
+   "audio_src": "",
+   "thumbnail": "",
+   "publishedDate": null,
+   "pubdate": "",
+   "length": null,
+   "views": "",
+   "author": "",
+   "metadata": "",
+   "priority": "",
+   "engines": [
+    "duckduckgo"
+   ],
+   "open_group": false,
+   "close_group": false,
+   "positions": [
+    7
+   ],
+   "score": 0.14285714285714285,
+   "category": "general",
+   "url": "https://pythongeeks.org/python-3-installation-and-setup-guide/",
+   "engine": "duckduckgo",
+   "parsed_url": [
+    "https",
+    "pythongeeks.org",
+    "/python-3-installation-and-setup-guide/",
+    "",
+    "",
+    ""
+   ]
+  },
+  {
+   "template": "default.html",
+   "title": "How To Package Your Python Code \u2014 Python Packaging Tutorial",
+   "content": "How To Package Your Python Code\u00b6 \u00b7 To install with pip or easy_install . \u00b7 To specify as a dependency for another package. \u00b7 For other users to download and run\u00a0...",
+   "img_src": "",
+   "iframe_src": "",
+   "audio_src": "",
+   "thumbnail": "",
+   "publishedDate": null,
+   "pubdate": "",
+   "length": null,
+   "views": "",
+   "author": "",
+   "metadata": "",
+   "priority": "",
+   "engines": [
+    "google cse"
+   ],
+   "open_group": false,
+   "close_group": false,
+   "positions": [
+    8
+   ],
+   "score": 0.125,
+   "category": "general",
+   "url": "https://python-packaging.readthedocs.io/",
+   "engine": "google cse",
+   "parsed_url": [
+    "https",
+    "python-packaging.readthedocs.io",
+    "/",
+    "",
+    "",
+    ""
+   ]
+  },
+  {
+   "template": "default.html",
+   "title": "How to install Python packages with requirements.txt",
+   "content": "We can install packages in Python using the pip package manager. In this article, we will learn to install multiple packages at once using the requirements.txt file.",
+   "img_src": "",
+   "iframe_src": "",
+   "audio_src": "",
+   "thumbnail": "",
+   "publishedDate": null,
+   "pubdate": "",
+   "length": null,
+   "views": "",
+   "author": "",
+   "metadata": "",
+   "priority": "",
+   "engines": [
+    "duckduckgo"
+   ],
+   "open_group": false,
+   "close_group": false,
+   "positions": [
+    8
+   ],
+   "score": 0.125,
+   "category": "general",
+   "url": "https://www.geeksforgeeks.org/python/how-to-install-python-packages-with-requirements-txt/",
+   "engine": "duckduckgo",
+   "parsed_url": [
+    "https",
+    "www.geeksforgeeks.org",
+    "/python/how-to-install-python-packages-with-requirements-txt/",
+    "",
+    "",
+    ""
+   ]
+  },
+  {
+   "template": "default.html",
+   "title": "History, motivation, and Python packaging - Buildout",
+   "content": "Setuptools defined a packaging format, eggs, used for package distribution and installation. Their design was based on Java jar files, which bundle software\u00a0...",
+   "img_src": "",
+   "iframe_src": "",
+   "audio_src": "",
+   "thumbnail": "",
+   "publishedDate": null,
+   "pubdate": "",
+   "length": null,
+   "views": "",
+   "author": "",
+   "metadata": "",
+   "priority": "",
+   "engines": [
+    "google cse"
+   ],
+   "open_group": false,
+   "close_group": false,
+   "positions": [
+    9
+   ],
+   "score": 0.1111111111111111,
+   "category": "general",
+   "url": "https://www.buildout.org/en/latest/topics/history.html",
+   "engine": "google cse",
+   "parsed_url": [
+    "https",
+    "www.buildout.org",
+    "/en/latest/topics/history.html",
+    "",
+    "",
+    ""
+   ]
+  },
+  {
+   "template": "default.html",
+   "title": "GitHub - pyinstaller/pyinstaller: Freeze (package) Python programs into ...",
+   "content": "PyInstaller bundles a Python application and all its dependencies into a single package. The user can run the packaged app without installing a Python interpreter or any modules.",
+   "img_src": "",
+   "iframe_src": "",
+   "audio_src": "",
+   "thumbnail": "",
+   "publishedDate": null,
+   "pubdate": "",
+   "length": null,
+   "views": "",
+   "author": "",
+   "metadata": "",
+   "priority": "",
+   "engines": [
+    "duckduckgo"
+   ],
+   "open_group": false,
+   "close_group": false,
+   "positions": [
+    9
+   ],
+   "score": 0.1111111111111111,
+   "category": "general",
+   "url": "https://github.com/pyinstaller/pyinstaller",
+   "engine": "duckduckgo",
+   "parsed_url": [
+    "https",
+    "github.com",
+    "/pyinstaller/pyinstaller",
+    "",
+    "",
+    ""
+   ]
+  },
+  {
+   "template": "default.html",
+   "title": "Version Handling - Packaging",
+   "content": "See Version Specifiers Specification for more details on the exact format implemented in this module, for use in Python Packaging tooling. ... Python 3.11 if they\u00a0...",
+   "img_src": "",
+   "iframe_src": "",
+   "audio_src": "",
+   "thumbnail": "",
+   "publishedDate": null,
+   "pubdate": "",
+   "length": null,
+   "views": "",
+   "author": "",
+   "metadata": "",
+   "priority": "",
+   "engines": [
+    "google cse"
+   ],
+   "open_group": false,
+   "close_group": false,
+   "positions": [
+    10
+   ],
+   "score": 0.1,
+   "category": "general",
+   "url": "https://packaging.pypa.io/en/latest/version.html",
+   "engine": "google cse",
+   "parsed_url": [
+    "https",
+    "packaging.pypa.io",
+    "/en/latest/version.html",
+    "",
+    "",
+    ""
+   ]
+  },
+  {
+   "template": "default.html",
+   "title": "Python package installation - CatBoost",
+   "content": "Note. CatBoost Python package supports only CPython Python implementation. Alert. Installation is only supported by the 64-bit version of Python. Dependencies:",
+   "img_src": "",
+   "iframe_src": "",
+   "audio_src": "",
+   "thumbnail": "",
+   "publishedDate": null,
+   "pubdate": "",
+   "length": null,
+   "views": "",
+   "author": "",
+   "metadata": "",
+   "priority": "",
+   "engines": [
+    "duckduckgo"
+   ],
+   "open_group": false,
+   "close_group": false,
+   "positions": [
+    10
+   ],
+   "score": 0.1,
+   "category": "general",
+   "url": "https://catboost.ai/docs/en/concepts/python-installation",
+   "engine": "duckduckgo",
+   "parsed_url": [
+    "https",
+    "catboost.ai",
+    "/docs/en/concepts/python-installation",
+    "",
+    "",
+    ""
+   ]
+  },
+  {
+   "template": "default.html",
+   "title": "Python Package Management \u2014 PySpark 4.1.2 documentation",
+   "content": "PySpark users can directly use a Conda environment to ship their third-party Python packages by leveraging conda-pack which is a command line tool creating\u00a0...",
+   "img_src": "",
+   "iframe_src": "",
+   "audio_src": "",
+   "thumbnail": "",
+   "publishedDate": null,
+   "pubdate": "",
+   "length": null,
+   "views": "",
+   "author": "",
+   "metadata": "",
+   "priority": "",
+   "engines": [
+    "google cse"
+   ],
+   "open_group": false,
+   "close_group": false,
+   "positions": [
+    11
+   ],
+   "score": 0.09090909090909091,
+   "category": "general",
+   "url": "https://spark.apache.org/docs/latest/api/python/tutorial/python_packaging.html",
+   "engine": "google cse",
+   "parsed_url": [
+    "https",
+    "spark.apache.org",
+    "/docs/latest/api/python/tutorial/python_packaging.html",
+    "",
+    "",
+    ""
+   ]
+  },
+  {
+   "template": "default.html",
+   "title": "GitHub - pypa/get-pip: Helper scripts to install pip, in a Python ...",
+   "content": "Upon execution, get-pip.py will install the latest version of pip into the current Python environment. When using Python 3.11 or older, by default the packages setuptools and wheel will also be installed if an existing version of them was not found. It is possible to provide additional arguments to the underlying script. These are passed through to the underlying pip install command, and can ...",
+   "img_src": "",
+   "iframe_src": "",
+   "audio_src": "",
+   "thumbnail": "",
+   "publishedDate": null,
+   "pubdate": "",
+   "length": null,
+   "views": "",
+   "author": "",
+   "metadata": "",
+   "priority": "",
+   "engines": [
+    "duckduckgo"
+   ],
+   "open_group": false,
+   "close_group": false,
+   "positions": [
+    11
+   ],
+   "score": 0.09090909090909091,
+   "category": "general",
+   "url": "https://github.com/pypa/get-pip",
+   "engine": "duckduckgo",
+   "parsed_url": [
+    "https",
+    "github.com",
+    "/pypa/get-pip",
+    "",
+    "",
+    ""
+   ]
+  },
+  {
+   "template": "default.html",
+   "title": "Python packaging - Growing Pains - Bern\u00e1t G\u00e1bor",
+   "content": "7 Feb 2019 ... This post will go over a few, hopefully serving as lessons learned for all of us and presenting some interesting problems to solve in the future.",
+   "img_src": "",
+   "iframe_src": "",
+   "audio_src": "",
+   "thumbnail": "",
+   "publishedDate": null,
+   "pubdate": "",
+   "length": null,
+   "views": "",
+   "author": "",
+   "metadata": "",
+   "priority": "",
+   "engines": [
+    "google cse"
+   ],
+   "open_group": false,
+   "close_group": false,
+   "positions": [
+    12
+   ],
+   "score": 0.08333333333333333,
+   "category": "general",
+   "url": "https://bernat.tech/posts/growing-pain/",
+   "engine": "google cse",
+   "parsed_url": [
+    "https",
+    "bernat.tech",
+    "/posts/growing-pain/",
+    "",
+    "",
+    ""
+   ]
+  },
+  {
+   "template": "default.html",
+   "title": "Anaconda Distribution release notes",
+   "content": "The release notes below contain changes for each Anaconda Distribution version, as well as which packages are available in each installer, organized by operating system.",
+   "img_src": "",
+   "iframe_src": "",
+   "audio_src": "",
+   "thumbnail": "",
+   "publishedDate": null,
+   "pubdate": "",
+   "length": null,
+   "views": "",
+   "author": "",
+   "metadata": "",
+   "priority": "",
+   "engines": [
+    "duckduckgo"
+   ],
+   "open_group": false,
+   "close_group": false,
+   "positions": [
+    12
+   ],
+   "score": 0.08333333333333333,
+   "category": "general",
+   "url": "https://www.anaconda.com/docs/getting-started/anaconda/release-notes",
+   "engine": "duckduckgo",
+   "parsed_url": [
+    "https",
+    "www.anaconda.com",
+    "/docs/getting-started/anaconda/release-notes",
+    "",
+    "",
+    ""
+   ]
+  },
+  {
+   "template": "default.html",
+   "title": "Requests: HTTP for Humans\u2122 \u2014 Requests 2.34.2 documentation",
+   "content": "Requests: HTTP for Humans\u2122 \u00b6 Release v2.34.2. (Installation) Requests is an elegant and simple HTTP library for Python, built for human beings.",
+   "img_src": "",
+   "iframe_src": "",
+   "audio_src": "",
+   "thumbnail": "",
+   "publishedDate": null,
+   "pubdate": "",
+   "length": null,
+   "views": "",
+   "author": "",
+   "metadata": "",
+   "priority": "",
+   "engines": [
+    "duckduckgo"
+   ],
+   "open_group": false,
+   "close_group": false,
+   "positions": [
+    13
+   ],
+   "score": 0.07692307692307693,
+   "category": "general",
+   "url": "https://docs.python-requests.org/en/master/index.html",
+   "engine": "duckduckgo",
+   "parsed_url": [
+    "https",
+    "docs.python-requests.org",
+    "/en/master/index.html",
+    "",
+    "",
+    ""
+   ]
+  },
+  {
+   "template": "default.html",
+   "title": "Install Python: Detailed Instructions for Window, Mac, and Linux",
+   "content": "Learn how to install Python on Windows, MacOS, and Linux. We show you multiple installation options, so you can choose what suits you best.",
+   "img_src": "",
+   "iframe_src": "",
+   "audio_src": "",
+   "thumbnail": "",
+   "publishedDate": null,
+   "pubdate": "",
+   "length": null,
+   "views": "",
+   "author": "",
+   "metadata": "",
+   "priority": "",
+   "engines": [
+    "duckduckgo"
+   ],
+   "open_group": false,
+   "close_group": false,
+   "positions": [
+    14
+   ],
+   "score": 0.07142857142857142,
+   "category": "general",
+   "url": "https://python.land/installing-python",
+   "engine": "duckduckgo",
+   "parsed_url": [
+    "https",
+    "python.land",
+    "/installing-python",
+    "",
+    "",
+    ""
+   ]
+  },
+  {
+   "template": "default.html",
+   "title": "pip (package manager) - Wikipedia",
+   "content": "pip (also known by Python 3 's alias pip3) is a package manager (package management system) written in Python and is used to install and manage software packages. [4] The Python Software Foundation recommends using pip to install Python applications and its dependencies during deployment. [5] Pip connects to an online software repository of public packages, named the Python Package Index (PyPI ...",
+   "img_src": "",
+   "iframe_src": "",
+   "audio_src": "",
+   "thumbnail": "",
+   "publishedDate": null,
+   "pubdate": "",
+   "length": null,
+   "views": "",
+   "author": "",
+   "metadata": "",
+   "priority": "",
+   "engines": [
+    "duckduckgo"
+   ],
+   "open_group": false,
+   "close_group": false,
+   "positions": [
+    15
+   ],
+   "score": 0.06666666666666667,
+   "category": "general",
+   "url": "https://en.wikipedia.org/wiki/Pip_%28package_manager%29",
+   "engine": "duckduckgo",
+   "parsed_url": [
+    "https",
+    "en.wikipedia.org",
+    "/wiki/Pip_%28package_manager%29",
+    "",
+    "",
+    ""
+   ]
+  },
+  {
+   "template": "default.html",
+   "title": "Packaging Python Libraries - Dive Into Python 3",
+   "content": "In this chapter, you'll learn how the setup scripts for chardet and httplib2 work, and you'll step through the process of releasing your own Python software.",
+   "img_src": "",
+   "iframe_src": "",
+   "audio_src": "",
+   "thumbnail": "",
+   "publishedDate": null,
+   "pubdate": "",
+   "length": null,
+   "views": "",
+   "author": "",
+   "metadata": "",
+   "priority": "",
+   "engines": [
+    "google cse"
+   ],
+   "open_group": false,
+   "close_group": false,
+   "positions": [
+    17
+   ],
+   "score": 0.058823529411764705,
+   "category": "general",
+   "url": "https://diveintopython3.net/packaging.html",
+   "engine": "google cse",
+   "parsed_url": [
+    "https",
+    "diveintopython3.net",
+    "/packaging.html",
+    "",
+    "",
+    ""
+   ]
+  },
+  {
+   "template": "default.html",
+   "title": "Chapter 3. Packaging Python 3 RPMs | Red Hat Enterprise Linux | 9",
+   "content": "When packaging a Python project into RPM, always add the python- prefix to the original name of the project. The original name here is pello and, therefore, the\u00a0...",
+   "img_src": "",
+   "iframe_src": "",
+   "audio_src": "",
+   "thumbnail": "",
+   "publishedDate": null,
+   "pubdate": "",
+   "length": null,
+   "views": "",
+   "author": "",
+   "metadata": "",
+   "priority": "",
+   "engines": [
+    "google cse"
+   ],
+   "open_group": false,
+   "close_group": false,
+   "positions": [
+    18
+   ],
+   "score": 0.05555555555555555,
+   "category": "general",
+   "url": "https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/9/html/installing_and_using_dynamic_programming_languages/assembly_packaging-python-3-rpms_installing-and-using-dynamic-programming-languages",
+   "engine": "google cse",
+   "parsed_url": [
+    "https",
+    "docs.redhat.com",
+    "/en/documentation/red_hat_enterprise_linux/9/html/installing_and_using_dynamic_programming_languages/assembly_packaging-python-3-rpms_installing-and-using-dynamic-programming-languages",
+    "",
+    "",
+    ""
+   ]
+  },
+  {
+   "template": "default.html",
+   "title": "openSUSE:Packaging Python",
+   "content": "Step 1: Creating the package. To begin, locate the exact package name on PyPI. The official name can be found in the page URL (e.g., https://pypi.org/project/\u00a0...",
+   "img_src": "",
+   "iframe_src": "",
+   "audio_src": "",
+   "thumbnail": "",
+   "publishedDate": null,
+   "pubdate": "",
+   "length": null,
+   "views": "",
+   "author": "",
+   "metadata": "",
+   "priority": "",
+   "engines": [
+    "google cse"
+   ],
+   "open_group": false,
+   "close_group": false,
+   "positions": [
+    20
+   ],
+   "score": 0.05,
+   "category": "general",
+   "url": "https://en.opensuse.org/openSUSE:Packaging_Python",
+   "engine": "google cse",
+   "parsed_url": [
+    "https",
+    "en.opensuse.org",
+    "/openSUSE:Packaging_Python",
+    "",
+    "",
+    ""
+   ]
+  },
+  {
+   "template": "default.html",
+   "title": "1. Introduction - Python Packages",
+   "content": "Python packages are a core element of the Python programming language and are how you write reusable and shareable code in Python.",
+   "img_src": "",
+   "iframe_src": "",
+   "audio_src": "",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSMWa23WJg1mneCP5mS9ueQivgFXzkPAecHcrW3ligAblzq1tQY_cGbqLM",
+   "publishedDate": null,
+   "pubdate": "",
+   "length": null,
+   "views": "",
+   "author": "",
+   "metadata": "",
+   "priority": "",
+   "engines": [
+    "google cse"
+   ],
+   "open_group": false,
+   "close_group": false,
+   "positions": [
+    15
+   ],
+   "score": 0.06666666666666667,
+   "category": "general",
+   "url": "https://py-pkgs.org/01-introduction.html",
+   "engine": "google cse",
+   "parsed_url": [
+    "https",
+    "py-pkgs.org",
+    "/01-introduction.html",
+    "",
+    "",
+    ""
+   ]
+  },
+  {
+   "template": "default.html",
+   "title": "How to Create Python Package and Upload to PyPi - YouTube",
+   "content": "24 Mar 2024 ... Create your own Python Package and upload to PyPi to share with other. Or at least in this case the test.pypi index.",
+   "img_src": "",
+   "iframe_src": "",
+   "audio_src": "",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ37Kiye0ZIfQhInBFxXv2I-oUTw-IrxBKrNErLQVpjwTmVrrWaf09fmUY",
+   "publishedDate": null,
+   "pubdate": "",
+   "length": null,
+   "views": "",
+   "author": "",
+   "metadata": "",
+   "priority": "",
+   "engines": [
+    "google cse"
+   ],
+   "open_group": false,
+   "close_group": false,
+   "positions": [
+    16
+   ],
+   "score": 0.0625,
+   "category": "general",
+   "url": "https://www.youtube.com/watch?v=h6oa_FwzFwU",
+   "engine": "google cse",
+   "parsed_url": [
+    "https",
+    "www.youtube.com",
+    "/watch",
+    "",
+    "v=h6oa_FwzFwU",
+    ""
+   ]
+  },
+  {
+   "template": "default.html",
+   "title": "The Architecture of Open Source Applications (Volume 1)Python ...",
+   "content": "Changing the way packaging works in Python is a very long process: the Python ecosystem contains so many projects based on older packaging tools that there is\u00a0...",
+   "img_src": "",
+   "iframe_src": "",
+   "audio_src": "",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRnWO2AAo6ubsHFlNz1w9VrGR_r6ihLrmZysP91u3yEHskIdDyGqEHmo58R",
+   "publishedDate": null,
+   "pubdate": "",
+   "length": null,
+   "views": "",
+   "author": "",
+   "metadata": "",
+   "priority": "",
+   "engines": [
+    "google cse"
+   ],
+   "open_group": false,
+   "close_group": false,
+   "positions": [
+    19
+   ],
+   "score": 0.05263157894736842,
+   "category": "general",
+   "url": "https://aosabook.org/en/v1/packaging.html",
+   "engine": "google cse",
+   "parsed_url": [
+    "https",
+    "aosabook.org",
+    "/en/v1/packaging.html",
+    "",
+    "",
+    ""
+   ]
+  }
+ ],
+ "answers": [],
+ "corrections": [],
+ "infoboxes": [],
+ "suggestions": [],
+ "unresponsive_engines": [
+  [
+   "brave",
+   "Suspended: too many requests"
+  ],
+  [
+   "startpage",
+   "Suspended: CAPTCHA"
+  ]
+ ]
+}

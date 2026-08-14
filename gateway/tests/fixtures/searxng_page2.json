@@ -1,0 +1,1279 @@
+{
+ "query": "python packaging",
+ "results": [
+  {
+   "template": "default.html",
+   "title": "Packaging Your Code - The Hitchhiker's Guide to Python",
+   "content": "Package your code to share it with other developers. For example, to share a library for other developers to use in their application, or for development tools\u00a0...",
+   "img_src": "",
+   "iframe_src": "",
+   "audio_src": "",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSM9O14OWyRCkpZB-2HQzE45Kzini8i6_HedhXqr9wRMLBlOpDr9IcUBw2x",
+   "publishedDate": null,
+   "pubdate": "",
+   "length": null,
+   "views": "",
+   "author": "",
+   "metadata": "",
+   "priority": "",
+   "engines": [
+    "google cse"
+   ],
+   "open_group": false,
+   "close_group": false,
+   "positions": [
+    1
+   ],
+   "score": 1.0,
+   "category": "general",
+   "url": "https://docs.python-guide.org/shipping/packaging/",
+   "engine": "google cse",
+   "parsed_url": [
+    "https",
+    "docs.python-guide.org",
+    "/shipping/packaging/",
+    "",
+    "",
+    ""
+   ]
+  },
+  {
+   "template": "default.html",
+   "title": "pypa/packaging.python.org: Python Packaging User Guide - GitHub",
+   "content": "Python Packaging User Guide ... The \"Python Packaging User Guide\" (PyPUG) aims to be the authoritative resource on how to package and install distributions in\u00a0...",
+   "img_src": "",
+   "iframe_src": "",
+   "audio_src": "",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS9HNfP3oF3B1qRKOrjefmGvtPubxJmRUdsoEcHrdDTikKYNnjTm74GpZc",
+   "publishedDate": null,
+   "pubdate": "",
+   "length": null,
+   "views": "",
+   "author": "",
+   "metadata": "",
+   "priority": "",
+   "engines": [
+    "google cse"
+   ],
+   "open_group": false,
+   "close_group": false,
+   "positions": [
+    3
+   ],
+   "score": 0.3333333333333333,
+   "category": "general",
+   "url": "https://github.com/pypa/packaging.python.org",
+   "engine": "google cse",
+   "parsed_url": [
+    "https",
+    "github.com",
+    "/pypa/packaging.python.org",
+    "",
+    "",
+    ""
+   ]
+  },
+  {
+   "template": "default.html",
+   "title": "Creating a pip installable package - Python for HPC",
+   "content": "This is a quickstart guide to Python Packaging with a particular focus on the creation of a PyPI package, which will enable users to \u201cpip install\u201d the package.",
+   "img_src": "",
+   "iframe_src": "",
+   "audio_src": "",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSQKuQClYXGuoy3uNV2iEy3iNhk4pptbyc4J8qGkYyQQsgCy-2kzY9YBw",
+   "publishedDate": null,
+   "pubdate": "",
+   "length": null,
+   "views": "",
+   "author": "",
+   "metadata": "",
+   "priority": "",
+   "engines": [
+    "google cse"
+   ],
+   "open_group": false,
+   "close_group": false,
+   "positions": [
+    4
+   ],
+   "score": 0.25,
+   "category": "general",
+   "url": "https://betterscientificsoftware.github.io/python-for-hpc/tutorials/python-pypi-packaging/",
+   "engine": "google cse",
+   "parsed_url": [
+    "https",
+    "betterscientificsoftware.github.io",
+    "/python-for-hpc/tutorials/python-pypi-packaging/",
+    "",
+    "",
+    ""
+   ]
+  },
+  {
+   "template": "default.html",
+   "title": "Best Practices in Python Packaging",
+   "content": "This workshop is for researchers who are already using Python for their work, but who want to distribute their software to the broader scientific community by\u00a0...",
+   "img_src": "",
+   "iframe_src": "",
+   "audio_src": "",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSyXqhW8krVCmkzCvliZkRRRr5owDvg7qpWKuSCaIbkSPMGY5HoTUrfOAw",
+   "publishedDate": null,
+   "pubdate": "",
+   "length": null,
+   "views": "",
+   "author": "",
+   "metadata": "",
+   "priority": "",
+   "engines": [
+    "google cse"
+   ],
+   "open_group": false,
+   "close_group": false,
+   "positions": [
+    5
+   ],
+   "score": 0.2,
+   "category": "general",
+   "url": "https://csml.princeton.edu/datax/datax-workshop-series/best-practices-python-packaging",
+   "engine": "google cse",
+   "parsed_url": [
+    "https",
+    "csml.princeton.edu",
+    "/datax/datax-workshop-series/best-practices-python-packaging",
+    "",
+    "",
+    ""
+   ]
+  },
+  {
+   "template": "default.html",
+   "title": "Finding and Choosing Quality Python Packages \u2013 dbader.org",
+   "content": "Finding and Choosing Quality Python Packages \u00b7 The Quest for the Perfect Python Package \u00b7 Mastering Python \u2260 Mastering the Syntax \u00b7 Overcoming \u201cReinventing the\u00a0...",
+   "img_src": "",
+   "iframe_src": "",
+   "audio_src": "",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS6lVj0tXKPntI6eZIfJ9BsjKPHEcOXV8Aex7KZh_1CYu024SfMDFhUdRI",
+   "publishedDate": null,
+   "pubdate": "",
+   "length": null,
+   "views": "",
+   "author": "",
+   "metadata": "",
+   "priority": "",
+   "engines": [
+    "google cse"
+   ],
+   "open_group": false,
+   "close_group": false,
+   "positions": [
+    6
+   ],
+   "score": 0.16666666666666666,
+   "category": "general",
+   "url": "https://dbader.org/blog/finding-and-choosing-quality-python-packages",
+   "engine": "google cse",
+   "parsed_url": [
+    "https",
+    "dbader.org",
+    "/blog/finding-and-choosing-quality-python-packages",
+    "",
+    "",
+    ""
+   ]
+  },
+  {
+   "template": "default.html",
+   "title": "Packaging Your Python Code With pyproject.toml - YouTube",
+   "content": "24 Nov 2022 ... Learning how to package your code can seem overwhelming. This complete 52 minute conversation takes you through the steps one at a time,\u00a0...",
+   "img_src": "",
+   "iframe_src": "",
+   "audio_src": "",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRgBu-XVvG6EldLYVsJeqyTDt8jfkOBiEoAjkB0A0JbXYemd1SE3tP-U-M",
+   "publishedDate": null,
+   "pubdate": "",
+   "length": null,
+   "views": "",
+   "author": "",
+   "metadata": "",
+   "priority": "",
+   "engines": [
+    "google cse"
+   ],
+   "open_group": false,
+   "close_group": false,
+   "positions": [
+    7
+   ],
+   "score": 0.14285714285714285,
+   "category": "general",
+   "url": "https://www.youtube.com/watch?v=v6tALyc4C10",
+   "engine": "google cse",
+   "parsed_url": [
+    "https",
+    "www.youtube.com",
+    "/watch",
+    "",
+    "v=v6tALyc4C10",
+    ""
+   ]
+  },
+  {
+   "template": "default.html",
+   "title": "A tutorial on packaging up your Python code for PyPI",
+   "content": "28 Oct 2017 ... I will focus on the use-case of putting code up on PyPI, but the tools outlined and general guidelines laid out below can also apply to private distribution of\u00a0...",
+   "img_src": "",
+   "iframe_src": "",
+   "audio_src": "",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR7yWNNHnGKR4Pu1WeDZaH0x7318LKeCIqXxdkfCCGlIcLjnfixazDoaz7Y",
+   "publishedDate": null,
+   "pubdate": "",
+   "length": null,
+   "views": "",
+   "author": "",
+   "metadata": "",
+   "priority": "",
+   "engines": [
+    "google cse"
+   ],
+   "open_group": false,
+   "close_group": false,
+   "positions": [
+    9
+   ],
+   "score": 0.1111111111111111,
+   "category": "general",
+   "url": "https://snarky.ca/a-tutorial-on-python-package-building/",
+   "engine": "google cse",
+   "parsed_url": [
+    "https",
+    "snarky.ca",
+    "/a-tutorial-on-python-package-building/",
+    "",
+    "",
+    ""
+   ]
+  },
+  {
+   "template": "default.html",
+   "title": "Building a Python Package. A simple and easy to follow recipe!",
+   "content": "19 Dec 2020 ... A Python package is a collection of modules. Modules that are related to each other are mainly put in the same package.",
+   "img_src": "",
+   "iframe_src": "",
+   "audio_src": "",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTqn9p0IrWyoBbc_9yScPOIzwtc2LBK3YLrdeCZzq3KPWr2ztnAi0K37rQ4",
+   "publishedDate": null,
+   "pubdate": "",
+   "length": null,
+   "views": "",
+   "author": "",
+   "metadata": "",
+   "priority": "",
+   "engines": [
+    "google cse"
+   ],
+   "open_group": false,
+   "close_group": false,
+   "positions": [
+    10
+   ],
+   "score": 0.1,
+   "category": "general",
+   "url": "https://ankitblogs.medium.com/building-a-python-package-d3b9a6043b27",
+   "engine": "google cse",
+   "parsed_url": [
+    "https",
+    "ankitblogs.medium.com",
+    "/building-a-python-package-d3b9a6043b27",
+    "",
+    "",
+    ""
+   ]
+  },
+  {
+   "template": "default.html",
+   "title": "No module named packaging - python - Stack Overflow",
+   "content": "14 Feb 2017 ... No module named packaging \u00b7 show code you used to install and to import packaging. Andersson. \u2013 Andersson. 2017-02-14 09:21:12 +00:00 \u00b7 I didn't\u00a0...",
+   "img_src": "",
+   "iframe_src": "",
+   "audio_src": "",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRdz5bpS8UTjYhRCyw0EGEhHePvfcnqibPoEEwsMe0bPC5ufFu-rvmh0xDh",
+   "publishedDate": null,
+   "pubdate": "",
+   "length": null,
+   "views": "",
+   "author": "",
+   "metadata": "",
+   "priority": "",
+   "engines": [
+    "google cse"
+   ],
+   "open_group": false,
+   "close_group": false,
+   "positions": [
+    11
+   ],
+   "score": 0.09090909090909091,
+   "category": "general",
+   "url": "https://stackoverflow.com/questions/42222096/no-module-named-packaging",
+   "engine": "google cse",
+   "parsed_url": [
+    "https",
+    "stackoverflow.com",
+    "/questions/42222096/no-module-named-packaging",
+    "",
+    "",
+    ""
+   ]
+  },
+  {
+   "template": "default.html",
+   "title": "Python Packaging User Guide",
+   "content": "The Python Packaging User Guide (PyPUG) is a collection of tutorials and guides for packaging Python software.",
+   "img_src": "",
+   "iframe_src": "",
+   "audio_src": "",
+   "thumbnail": "",
+   "publishedDate": null,
+   "pubdate": "",
+   "length": null,
+   "views": "",
+   "author": "",
+   "metadata": "",
+   "priority": "",
+   "engines": [
+    "duckduckgo"
+   ],
+   "open_group": false,
+   "close_group": false,
+   "positions": [
+    1
+   ],
+   "score": 1.0,
+   "category": "general",
+   "url": "https://packaging.python.org/en/latest/",
+   "engine": "duckduckgo",
+   "parsed_url": [
+    "https",
+    "packaging.python.org",
+    "/en/latest/",
+    "",
+    "",
+    ""
+   ]
+  },
+  {
+   "template": "default.html",
+   "title": "Glossary - Python Packaging User Guide",
+   "content": "A library that takes a source tree and builds a source distribution or built distribution from it. The build is delegated to the backend by a frontend.",
+   "img_src": "",
+   "iframe_src": "",
+   "audio_src": "",
+   "thumbnail": "",
+   "publishedDate": null,
+   "pubdate": "",
+   "length": null,
+   "views": "",
+   "author": "",
+   "metadata": "",
+   "priority": "",
+   "engines": [
+    "google cse"
+   ],
+   "open_group": false,
+   "close_group": false,
+   "positions": [
+    2
+   ],
+   "score": 0.5,
+   "category": "general",
+   "url": "https://packaging.python.org/glossary/",
+   "engine": "google cse",
+   "parsed_url": [
+    "https",
+    "packaging.python.org",
+    "/glossary/",
+    "",
+    "",
+    ""
+   ]
+  },
+  {
+   "template": "default.html",
+   "title": "Installing Packages - Python Packaging User Guide",
+   "content": "Installing Packages \u00b6 This section covers the basics of how to install Python packages. It's important to note that the term \"package\" in this context is being used to describe a bundle of software to be installed (i.e. as a synonym for a distribution). It does not refer to the kind of package that you import in your Python source code (i.e. a container of modules). It is common in the ...",
+   "img_src": "",
+   "iframe_src": "",
+   "audio_src": "",
+   "thumbnail": "",
+   "publishedDate": null,
+   "pubdate": "",
+   "length": null,
+   "views": "",
+   "author": "",
+   "metadata": "",
+   "priority": "",
+   "engines": [
+    "duckduckgo"
+   ],
+   "open_group": false,
+   "close_group": false,
+   "positions": [
+    2
+   ],
+   "score": 0.5,
+   "category": "general",
+   "url": "https://packaging.python.org/en/latest/tutorials/installing-packages/",
+   "engine": "duckduckgo",
+   "parsed_url": [
+    "https",
+    "packaging.python.org",
+    "/en/latest/tutorials/installing-packages/",
+    "",
+    "",
+    ""
+   ]
+  },
+  {
+   "template": "default.html",
+   "title": "Install packages in a virtual environment using pip and venv - Python",
+   "content": "Install packages in a virtual environment using pip and venv \u00b6 This guide discusses how to create and activate a virtual environment using the standard library's virtual environment tool venv and install packages. The guide covers how to: Create and activate a virtual environment Prepare pip Install packages into a virtual environment using the pip command Use and create a requirements file",
+   "img_src": "",
+   "iframe_src": "",
+   "audio_src": "",
+   "thumbnail": "",
+   "publishedDate": null,
+   "pubdate": "",
+   "length": null,
+   "views": "",
+   "author": "",
+   "metadata": "",
+   "priority": "",
+   "engines": [
+    "duckduckgo"
+   ],
+   "open_group": false,
+   "close_group": false,
+   "positions": [
+    3
+   ],
+   "score": 0.3333333333333333,
+   "category": "general",
+   "url": "https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/",
+   "engine": "duckduckgo",
+   "parsed_url": [
+    "https",
+    "packaging.python.org",
+    "/guides/installing-using-pip-and-virtual-environments/",
+    "",
+    "",
+    ""
+   ]
+  },
+  {
+   "template": "default.html",
+   "title": "Pip Install: How To Install and Remove Python Packages",
+   "content": "Use Python pip to install packages manually, or by using a requirements.txt file. We'll also look at how to install and upgrade pip itself.",
+   "img_src": "",
+   "iframe_src": "",
+   "audio_src": "",
+   "thumbnail": "",
+   "publishedDate": null,
+   "pubdate": "",
+   "length": null,
+   "views": "",
+   "author": "",
+   "metadata": "",
+   "priority": "",
+   "engines": [
+    "duckduckgo"
+   ],
+   "open_group": false,
+   "close_group": false,
+   "positions": [
+    4
+   ],
+   "score": 0.25,
+   "category": "general",
+   "url": "https://python.land/virtual-environments/installing-packages-with-pip",
+   "engine": "duckduckgo",
+   "parsed_url": [
+    "https",
+    "python.land",
+    "/virtual-environments/installing-packages-with-pip",
+    "",
+    "",
+    ""
+   ]
+  },
+  {
+   "template": "default.html",
+   "title": "Software Packaging and Distribution \u2014 Python 3.14.6 documentation",
+   "content": "Software Packaging and Distribution \u00b6 These libraries help you with publishing and installing Python software. While these modules are designed to work in conjunction with the Python Package Index, they can also be used with a local index server, or without any index server at all.",
+   "img_src": "",
+   "iframe_src": "",
+   "audio_src": "",
+   "thumbnail": "",
+   "publishedDate": null,
+   "pubdate": "",
+   "length": null,
+   "views": "",
+   "author": "",
+   "metadata": "",
+   "priority": "",
+   "engines": [
+    "duckduckgo"
+   ],
+   "open_group": false,
+   "close_group": false,
+   "positions": [
+    5
+   ],
+   "score": 0.2,
+   "category": "general",
+   "url": "https://docs.python.org/3/library/distribution.html",
+   "engine": "duckduckgo",
+   "parsed_url": [
+    "https",
+    "docs.python.org",
+    "/3/library/distribution.html",
+    "",
+    "",
+    ""
+   ]
+  },
+  {
+   "template": "default.html",
+   "title": "Package Formats - Python Packaging User Guide",
+   "content": "When pip, the standard Python package installer, cannot find a wheel to install, it will fall back on downloading a source distribution, compiling a wheel from it, and installing the wheel.",
+   "img_src": "",
+   "iframe_src": "",
+   "audio_src": "",
+   "thumbnail": "",
+   "publishedDate": null,
+   "pubdate": "",
+   "length": null,
+   "views": "",
+   "author": "",
+   "metadata": "",
+   "priority": "",
+   "engines": [
+    "duckduckgo"
+   ],
+   "open_group": false,
+   "close_group": false,
+   "positions": [
+    6
+   ],
+   "score": 0.16666666666666666,
+   "category": "general",
+   "url": "https://packaging.python.org/en/latest/discussions/package-formats/",
+   "engine": "duckduckgo",
+   "parsed_url": [
+    "https",
+    "packaging.python.org",
+    "/en/latest/discussions/package-formats/",
+    "",
+    "",
+    ""
+   ]
+  },
+  {
+   "template": "default.html",
+   "title": "How to Install Python Packages with pip and requirements.txt",
+   "content": "This article explains how to install Python packages using pip and requirements.txt. User Guide - pip documentation v25.1",
+   "img_src": "",
+   "iframe_src": "",
+   "audio_src": "",
+   "thumbnail": "",
+   "publishedDate": null,
+   "pubdate": "",
+   "length": null,
+   "views": "",
+   "author": "",
+   "metadata": "",
+   "priority": "",
+   "engines": [
+    "duckduckgo"
+   ],
+   "open_group": false,
+   "close_group": false,
+   "positions": [
+    7
+   ],
+   "score": 0.14285714285714285,
+   "category": "general",
+   "url": "https://note.nkmk.me/en/python-pip-install-requirements/",
+   "engine": "duckduckgo",
+   "parsed_url": [
+    "https",
+    "note.nkmk.me",
+    "/en/python-pip-install-requirements/",
+    "",
+    "",
+    ""
+   ]
+  },
+  {
+   "template": "default.html",
+   "title": "Introduction to Packaging",
+   "content": "Therefore, Python has a packaging system that allows people to distribute their programs and libraries in a standard format that makes it easy to install and\u00a0...",
+   "img_src": "",
+   "iframe_src": "",
+   "audio_src": "",
+   "thumbnail": "",
+   "publishedDate": null,
+   "pubdate": "",
+   "length": null,
+   "views": "",
+   "author": "",
+   "metadata": "",
+   "priority": "",
+   "engines": [
+    "google cse"
+   ],
+   "open_group": false,
+   "close_group": false,
+   "positions": [
+    8
+   ],
+   "score": 0.125,
+   "category": "general",
+   "url": "http://the-hitchhikers-guide-to-packaging.readthedocs.io/en/latest/introduction.html",
+   "engine": "google cse",
+   "parsed_url": [
+    "http",
+    "the-hitchhikers-guide-to-packaging.readthedocs.io",
+    "/en/latest/introduction.html",
+    "",
+    "",
+    ""
+   ]
+  },
+  {
+   "template": "default.html",
+   "title": "Python venv: How To Create, Activate, Deactivate, And Delete",
+   "content": "Python virtual environments allow you to install Python packages in a location isolated from the rest of your system instead of installing them system-wide. Let's look at how to use Python venv's, short for Python virtual environments, also abbreviated as virtualenv. In this article, you will learn: The advantages of using virtual environments How to create a venv How to activate and ...",
+   "img_src": "",
+   "iframe_src": "",
+   "audio_src": "",
+   "thumbnail": "",
+   "publishedDate": null,
+   "pubdate": "",
+   "length": null,
+   "views": "",
+   "author": "",
+   "metadata": "",
+   "priority": "",
+   "engines": [
+    "duckduckgo"
+   ],
+   "open_group": false,
+   "close_group": false,
+   "positions": [
+    8
+   ],
+   "score": 0.125,
+   "category": "general",
+   "url": "https://python.land/virtual-environments/virtualenv",
+   "engine": "duckduckgo",
+   "parsed_url": [
+    "https",
+    "python.land",
+    "/virtual-environments/virtualenv",
+    "",
+    "",
+    ""
+   ]
+  },
+  {
+   "template": "default.html",
+   "title": "How to Use pip (Install, Update, Uninstall Packages)",
+   "content": "Pip is the Python package installer used to install, update, and uninstall packages. pip documentation v25.0.1 pypa/pip: The Python package installer This article explains how to use pip. Install pip ...",
+   "img_src": "",
+   "iframe_src": "",
+   "audio_src": "",
+   "thumbnail": "",
+   "publishedDate": null,
+   "pubdate": "",
+   "length": null,
+   "views": "",
+   "author": "",
+   "metadata": "",
+   "priority": "",
+   "engines": [
+    "duckduckgo"
+   ],
+   "open_group": false,
+   "close_group": false,
+   "positions": [
+    9
+   ],
+   "score": 0.1111111111111111,
+   "category": "general",
+   "url": "https://note.nkmk.me/en/python-pip-usage/",
+   "engine": "duckduckgo",
+   "parsed_url": [
+    "https",
+    "note.nkmk.me",
+    "/en/python-pip-usage/",
+    "",
+    "",
+    ""
+   ]
+  },
+  {
+   "template": "default.html",
+   "title": "How to Install PIP on Windows - GeeksforGeeks",
+   "content": "PIP stands for \"Preferred Installer Program\" or \"Pip Installs Packages\" and is a standard package manager for Python that enables users to install and manage additional libraries and dependencies not included in the standard Python library. To use PIP, you must install Python on your Windows machine. This article provides a step-by-step guide on how to install and configure PIP on Windows ...",
+   "img_src": "",
+   "iframe_src": "",
+   "audio_src": "",
+   "thumbnail": "",
+   "publishedDate": null,
+   "pubdate": "",
+   "length": null,
+   "views": "",
+   "author": "",
+   "metadata": "",
+   "priority": "",
+   "engines": [
+    "duckduckgo"
+   ],
+   "open_group": false,
+   "close_group": false,
+   "positions": [
+    10
+   ],
+   "score": 0.1,
+   "category": "general",
+   "url": "https://www.geeksforgeeks.org/installation-guide/how-to-install-pip-on-windows/",
+   "engine": "duckduckgo",
+   "parsed_url": [
+    "https",
+    "www.geeksforgeeks.org",
+    "/installation-guide/how-to-install-pip-on-windows/",
+    "",
+    "",
+    ""
+   ]
+  },
+  {
+   "template": "default.html",
+   "title": "12. Virtual Environments and Packages \u2014 Python 3.14.6 documentation",
+   "content": "Introduction: Python applications will often use packages and modules that don't come as part of the standard library. Applications will sometimes need a specific version of a library, because the ...",
+   "img_src": "",
+   "iframe_src": "",
+   "audio_src": "",
+   "thumbnail": "",
+   "publishedDate": null,
+   "pubdate": "",
+   "length": null,
+   "views": "",
+   "author": "",
+   "metadata": "",
+   "priority": "",
+   "engines": [
+    "duckduckgo"
+   ],
+   "open_group": false,
+   "close_group": false,
+   "positions": [
+    11
+   ],
+   "score": 0.09090909090909091,
+   "category": "general",
+   "url": "https://docs.python.org/3/tutorial/venv.html",
+   "engine": "duckduckgo",
+   "parsed_url": [
+    "https",
+    "docs.python.org",
+    "/3/tutorial/venv.html",
+    "",
+    "",
+    ""
+   ]
+  },
+  {
+   "template": "default.html",
+   "title": "Python package guidelines - ArchWiki",
+   "content": "16 Mar 2026 ... This document covers standards and guidelines on writing PKGBUILDs for Python software. Package naming For Python 3 library modules, use python-modulename.",
+   "img_src": "",
+   "iframe_src": "",
+   "audio_src": "",
+   "thumbnail": "",
+   "publishedDate": null,
+   "pubdate": "",
+   "length": null,
+   "views": "",
+   "author": "",
+   "metadata": "",
+   "priority": "",
+   "engines": [
+    "google cse"
+   ],
+   "open_group": false,
+   "close_group": false,
+   "positions": [
+    12
+   ],
+   "score": 0.08333333333333333,
+   "category": "general",
+   "url": "https://wiki.archlinux.org/title/Python_package_guidelines",
+   "engine": "google cse",
+   "parsed_url": [
+    "https",
+    "wiki.archlinux.org",
+    "/title/Python_package_guidelines",
+    "",
+    "",
+    ""
+   ]
+  },
+  {
+   "template": "default.html",
+   "title": "polars \u00b7 PyPI",
+   "content": "Note that the Rust crate implementing the Python bindings is called py-polars to distinguish from the wrapped Rust crate polars itself. However, both the Python package and the Python module are named polars, so you can pip install polars and import polars. Using custom Rust functions in Python Extending Polars with UDFs compiled in Rust is easy.",
+   "img_src": "",
+   "iframe_src": "",
+   "audio_src": "",
+   "thumbnail": "",
+   "publishedDate": null,
+   "pubdate": "",
+   "length": null,
+   "views": "",
+   "author": "",
+   "metadata": "",
+   "priority": "",
+   "engines": [
+    "duckduckgo"
+   ],
+   "open_group": false,
+   "close_group": false,
+   "positions": [
+    12
+   ],
+   "score": 0.08333333333333333,
+   "category": "general",
+   "url": "https://pypi.org/project/polars/",
+   "engine": "duckduckgo",
+   "parsed_url": [
+    "https",
+    "pypi.org",
+    "/project/polars/",
+    "",
+    "",
+    ""
+   ]
+  },
+  {
+   "template": "default.html",
+   "title": "PyPI packages in the package registry | GitLab Docs",
+   "content": "The Python Package Index (PyPI) is the official third-party software repository for Python. Use the GitLab PyPI package registry to publish and share Python packages in your GitLab projects, groups, and organizations.",
+   "img_src": "",
+   "iframe_src": "",
+   "audio_src": "",
+   "thumbnail": "",
+   "publishedDate": null,
+   "pubdate": "",
+   "length": null,
+   "views": "",
+   "author": "",
+   "metadata": "",
+   "priority": "",
+   "engines": [
+    "duckduckgo"
+   ],
+   "open_group": false,
+   "close_group": false,
+   "positions": [
+    13
+   ],
+   "score": 0.07692307692307693,
+   "category": "general",
+   "url": "https://docs.gitlab.com/user/packages/pypi_repository/",
+   "engine": "duckduckgo",
+   "parsed_url": [
+    "https",
+    "docs.gitlab.com",
+    "/user/packages/pypi_repository/",
+    "",
+    "",
+    ""
+   ]
+  },
+  {
+   "template": "default.html",
+   "title": "pypackaging-native",
+   "content": "Packaging is an important and time-consuming part of authoring and maintaining Python packages. This is particularly true for projects that are not pure Python\u00a0...",
+   "img_src": "",
+   "iframe_src": "",
+   "audio_src": "",
+   "thumbnail": "",
+   "publishedDate": null,
+   "pubdate": "",
+   "length": null,
+   "views": "",
+   "author": "",
+   "metadata": "",
+   "priority": "",
+   "engines": [
+    "google cse"
+   ],
+   "open_group": false,
+   "close_group": false,
+   "positions": [
+    14
+   ],
+   "score": 0.07142857142857142,
+   "category": "general",
+   "url": "https://pypackaging-native.github.io/",
+   "engine": "google cse",
+   "parsed_url": [
+    "https",
+    "pypackaging-native.github.io",
+    "/",
+    "",
+    "",
+    ""
+   ]
+  },
+  {
+   "template": "default.html",
+   "title": "Python Release Python 3.13.2 | Python.org",
+   "content": "Python 3.13 is the newest major release of the Python programming language, and it contains many new features and optimizations compared to Python 3.12. 3.13.2 is the latest maintenance release, containing almost 250 bugfixes, build improvements and documentation changes since 3.13.1.",
+   "img_src": "",
+   "iframe_src": "",
+   "audio_src": "",
+   "thumbnail": "",
+   "publishedDate": null,
+   "pubdate": "",
+   "length": null,
+   "views": "",
+   "author": "",
+   "metadata": "",
+   "priority": "",
+   "engines": [
+    "duckduckgo"
+   ],
+   "open_group": false,
+   "close_group": false,
+   "positions": [
+    14
+   ],
+   "score": 0.07142857142857142,
+   "category": "general",
+   "url": "https://www.python.org/downloads/release/python-3132/",
+   "engine": "duckduckgo",
+   "parsed_url": [
+    "https",
+    "www.python.org",
+    "/downloads/release/python-3132/",
+    "",
+    "",
+    ""
+   ]
+  },
+  {
+   "template": "default.html",
+   "title": "Python Package Manager Comparison - DEV Community",
+   "content": "13 Nov 2023 ... Pipenv is still around (and I presume more stable at this point!), but Hatch, PDM, and Rye all promise a pleasant developer experience when creating Python\u00a0...",
+   "img_src": "",
+   "iframe_src": "",
+   "audio_src": "",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRSQDwaMSk_c2J1otOksEd3X35l4occlSqRahZKGqnrjv0A5vnVE_Kqvis",
+   "publishedDate": null,
+   "pubdate": "",
+   "length": null,
+   "views": "",
+   "author": "",
+   "metadata": "",
+   "priority": "",
+   "engines": [
+    "google cse"
+   ],
+   "open_group": false,
+   "close_group": false,
+   "positions": [
+    13
+   ],
+   "score": 0.07692307692307693,
+   "category": "general",
+   "url": "https://dev.to/adamghill/python-package-manager-comparison-1g98",
+   "engine": "google cse",
+   "parsed_url": [
+    "https",
+    "dev.to",
+    "/adamghill/python-package-manager-comparison-1g98",
+    "",
+    "",
+    ""
+   ]
+  },
+  {
+   "template": "default.html",
+   "title": "Python Zero to Hero - Ep.18 - Python packaging - Cheuk Ting Ho",
+   "content": "9 Aug 2020 ... Python packaging is one of the reasons why Python is loved by so many no matter how they used Python for. With the ability to install extra\u00a0...",
+   "img_src": "",
+   "iframe_src": "",
+   "audio_src": "",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRYXNkE6Txrr9PmybBqsvVyntiCaD1u1ICiltLk4SCS6ik_yUlrtQ-gGe0",
+   "publishedDate": null,
+   "pubdate": "",
+   "length": null,
+   "views": "",
+   "author": "",
+   "metadata": "",
+   "priority": "",
+   "engines": [
+    "google cse"
+   ],
+   "open_group": false,
+   "close_group": false,
+   "positions": [
+    17
+   ],
+   "score": 0.058823529411764705,
+   "category": "general",
+   "url": "https://cheuk.dev/videos/p6wqpscjazo_python_zero_to_hero_-_ep18_-_python_packaging/",
+   "engine": "google cse",
+   "parsed_url": [
+    "https",
+    "cheuk.dev",
+    "/videos/p6wqpscjazo_python_zero_to_hero_-_ep18_-_python_packaging/",
+    "",
+    "",
+    ""
+   ]
+  },
+  {
+   "template": "default.html",
+   "title": "Select Topics in Python: Packaging - Coursera",
+   "content": "Manage packages and virtual environments with Python's built-in tools. Manage packages and virtual environments with third-party tools.",
+   "img_src": "",
+   "iframe_src": "",
+   "audio_src": "",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTROVIkTqrtV6RGy4udkWAovRzpxQBnwr6JR3mrtOu0fhgQd0pVwx1xn9M_",
+   "publishedDate": null,
+   "pubdate": "",
+   "length": null,
+   "views": "",
+   "author": "",
+   "metadata": "",
+   "priority": "",
+   "engines": [
+    "google cse"
+   ],
+   "open_group": false,
+   "close_group": false,
+   "positions": [
+    18
+   ],
+   "score": 0.05555555555555555,
+   "category": "general",
+   "url": "https://www.coursera.org/learn/codio-select-topics-python-packaging",
+   "engine": "google cse",
+   "parsed_url": [
+    "https",
+    "www.coursera.org",
+    "/learn/codio-select-topics-python-packaging",
+    "",
+    "",
+    ""
+   ]
+  },
+  {
+   "template": "default.html",
+   "title": "pyOpenSci Python Package Guide",
+   "content": "This guidebook is for anyone interested in learning more about Python packaging. It is beginner-friendly and will provide:",
+   "img_src": "",
+   "iframe_src": "",
+   "audio_src": "",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRwWW4HWs9I-cXPMZS8pVFkPg2-0oYB4qpG8XhRGEJ1dtHKDzxzXSv4kQw",
+   "publishedDate": null,
+   "pubdate": "",
+   "length": null,
+   "views": "",
+   "author": "",
+   "metadata": "",
+   "priority": "",
+   "engines": [
+    "google cse"
+   ],
+   "open_group": false,
+   "close_group": false,
+   "positions": [
+    19
+   ],
+   "score": 0.05263157894736842,
+   "category": "general",
+   "url": "https://www.pyopensci.org/python-package-guide/index.html",
+   "engine": "google cse",
+   "parsed_url": [
+    "https",
+    "www.pyopensci.org",
+    "/python-package-guide/index.html",
+    "",
+    "",
+    ""
+   ]
+  },
+  {
+   "template": "default.html",
+   "title": "Python Package Index - Wikipedia",
+   "content": "The Python Package Index, abbreviated as PyPI (/\u02ccpa\u026api\u02c8a\u026a/) and also known as the Cheese Shop (a reference to the Monty Python's Flying Circus sketch \"Cheese\u00a0...",
+   "img_src": "",
+   "iframe_src": "",
+   "audio_src": "",
+   "thumbnail": "",
+   "publishedDate": null,
+   "pubdate": "",
+   "length": null,
+   "views": "",
+   "author": "",
+   "metadata": "",
+   "priority": "",
+   "engines": [
+    "google cse"
+   ],
+   "open_group": false,
+   "close_group": false,
+   "positions": [
+    15
+   ],
+   "score": 0.06666666666666667,
+   "category": "general",
+   "url": "https://en.wikipedia.org/wiki/Python_Package_Index",
+   "engine": "google cse",
+   "parsed_url": [
+    "https",
+    "en.wikipedia.org",
+    "/wiki/Python_Package_Index",
+    "",
+    "",
+    ""
+   ]
+  },
+  {
+   "template": "default.html",
+   "title": "Install, uninstall, and upgrade packages | PyCharm",
+   "content": "The Python Packages tool window provides the quickest and neat way to preview and install packages for the currently selected Python interpreter. This tool window is enabled by default, and you can open it by clicking Python Packages on the left.",
+   "img_src": "",
+   "iframe_src": "",
+   "audio_src": "",
+   "thumbnail": "",
+   "publishedDate": null,
+   "pubdate": "",
+   "length": null,
+   "views": "",
+   "author": "",
+   "metadata": "",
+   "priority": "",
+   "engines": [
+    "duckduckgo"
+   ],
+   "open_group": false,
+   "close_group": false,
+   "positions": [
+    15
+   ],
+   "score": 0.06666666666666667,
+   "category": "general",
+   "url": "https://www.jetbrains.com/help/pycharm/installing-uninstalling-and-upgrading-packages.html",
+   "engine": "duckduckgo",
+   "parsed_url": [
+    "https",
+    "www.jetbrains.com",
+    "/help/pycharm/installing-uninstalling-and-upgrading-packages.html",
+    "",
+    "",
+    ""
+   ]
+  },
+  {
+   "template": "default.html",
+   "title": "Installing Packages - Python Packaging User Guide",
+   "content": "This section covers the basics of how to install Python packages. It's important to note that the term \u201cpackage\u201d in this context is being used to describe a\u00a0...",
+   "img_src": "",
+   "iframe_src": "",
+   "audio_src": "",
+   "thumbnail": "",
+   "publishedDate": null,
+   "pubdate": "",
+   "length": null,
+   "views": "",
+   "author": "",
+   "metadata": "",
+   "priority": "",
+   "engines": [
+    "google cse"
+   ],
+   "open_group": false,
+   "close_group": false,
+   "positions": [
+    16
+   ],
+   "score": 0.0625,
+   "category": "general",
+   "url": "https://packaging.python.org/tutorials/installing-packages/",
+   "engine": "google cse",
+   "parsed_url": [
+    "https",
+    "packaging.python.org",
+    "/tutorials/installing-packages/",
+    "",
+    "",
+    ""
+   ]
+  },
+  {
+   "template": "default.html",
+   "title": "How we made Python's packaging library 3x faster - ISciNumPy.dev",
+   "content": "9 Jan 2026 ... If you are using something like Version(version.public) in a performance critical path, you can use __replace__ ( copy.replace on Python 3.14)\u00a0...",
+   "img_src": "",
+   "iframe_src": "",
+   "audio_src": "",
+   "thumbnail": "",
+   "publishedDate": null,
+   "pubdate": "",
+   "length": null,
+   "views": "",
+   "author": "",
+   "metadata": "",
+   "priority": "",
+   "engines": [
+    "google cse"
+   ],
+   "open_group": false,
+   "close_group": false,
+   "positions": [
+    20
+   ],
+   "score": 0.05,
+   "category": "general",
+   "url": "https://iscinumpy.dev/post/packaging-faster/",
+   "engine": "google cse",
+   "parsed_url": [
+    "https",
+    "iscinumpy.dev",
+    "/post/packaging-faster/",
+    "",
+    "",
+    ""
+   ]
+  }
+ ],
+ "answers": [],
+ "corrections": [],
+ "infoboxes": [],
+ "suggestions": [],
+ "unresponsive_engines": [
+  [
+   "brave",
+   "Suspended: too many requests"
+  ],
+  [
+   "startpage",
+   "Suspended: CAPTCHA"
+  ]
+ ]
+}
