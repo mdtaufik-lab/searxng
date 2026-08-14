@@ -25,6 +25,11 @@ async def search(
     limit: int = Query(10, ge=1, le=50),
     offset: int = Query(0, ge=0),
     cx: str = Query("web", description="Engine profile from profiles.yml"),
+    engines: str | None = Query(
+        None,
+        description="Pick specific engines, comma-separated, e.g. 'google' or "
+        "'google,duckduckgo'. Overrides cx. Omit to search the whole cx profile.",
+    ),
     language: str = Query("auto"),
     safesearch: int = Query(0, ge=0, le=2),
     time_range: str | None = Query(None),
@@ -48,10 +53,32 @@ async def search(
             "invalid",
         )
 
+    # Explicit engine choice overrides the profile. When engines are named we
+    # must NOT also send a category, or SearXNG merges that category's other
+    # engines back in (so 'engines=google' would still return DuckDuckGo etc.).
+    categories = tuple(profile.categories)
+    chosen = tuple(profile.engines)
+    if engines:
+        resolved, unknown = [], []
+        for tok in engines.split(","):
+            if not tok.strip():
+                continue
+            name = st.catalog.resolve_engine(tok)
+            (resolved if name else unknown).append(name or tok.strip())
+        if unknown:
+            raise GatewayError(
+                400,
+                f"Unknown engine(s): {', '.join(unknown)}. "
+                "Try: google, duckduckgo, brave, startpage.",
+                "invalid",
+            )
+        chosen = tuple(dict.fromkeys(resolved))  # dedupe, keep order
+        categories = ()  # force ONLY the chosen engines
+
     params = SearchParams(
         q=guard(normalize_q(q), st.catalog),
-        categories=tuple(profile.categories),
-        engines=tuple(profile.engines),
+        categories=categories,
+        engines=chosen,
         language=language,
         safesearch=safesearch,
         time_range=time_range,

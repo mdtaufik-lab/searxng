@@ -53,6 +53,30 @@ curl "http://127.0.0.1:8080/customsearch/v1?q=claude&cx=web&num=10&key=$KEY"
 curl -H "Authorization: Bearer $KEY" "http://127.0.0.1:8080/v1/search?q=claude&limit=10"
 ```
 
+## Choosing search engines
+
+By default a query is merged across all engines SearXNG has for the category
+(Google CSE + DuckDuckGo + Brave + ...) and ranked into one list — that blend is
+the point, and it's more resilient when one engine gets rate-limited. To pin the
+search to specific engines instead:
+
+```bash
+# native endpoint — ?engines= (comma-separated). Friendly names are accepted.
+curl -H "Authorization: Bearer $KEY" "http://127.0.0.1:8080/v1/search?q=claude&engines=google"
+curl -H "Authorization: Bearer $KEY" "http://127.0.0.1:8080/v1/search?q=claude&engines=google,duckduckgo"
+
+# Google endpoint — via a cx profile (see profiles.yml): cx=google | duckduckgo | brave
+curl "http://127.0.0.1:8080/customsearch/v1?q=claude&cx=google&key=$KEY"
+```
+
+Accepted names: `google` (maps to the real engine `google cse`), `duckduckgo`,
+`brave`, `startpage`, `bing`, plus any exact SearXNG engine name or shortcut. An
+unknown name returns a 400 listing valid options.
+
+> Trade-off: pinning to a single engine means if *that* engine gets captcha'd,
+> you get zero results. The default blend degrades gracefully instead. Use
+> `engines=google,duckduckgo` for a middle ground.
+
 ## Migrating an app off a paid Google Search API
 
 Change the **base URL** and the **key**. Nothing else.

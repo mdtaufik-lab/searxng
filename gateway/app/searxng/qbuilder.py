@@ -38,6 +38,7 @@ class EngineCatalog:
     engines: set[str] = field(default_factory=set)
     shortcuts: set[str] = field(default_factory=set)
     categories: set[str] = field(default_factory=set)
+    shortcut_to_name: dict[str, str] = field(default_factory=dict)
 
     @classmethod
     def from_config(cls, cfg: dict) -> "EngineCatalog":
@@ -45,13 +46,57 @@ class EngineCatalog:
         shortcuts = {
             e["shortcut"].lower() for e in cfg.get("engines", []) if e.get("shortcut")
         }
+        shortcut_to_name = {
+            e["shortcut"].lower(): e["name"].lower()
+            for e in cfg.get("engines", [])
+            if e.get("shortcut") and e.get("name")
+        }
         categories = {c.lower() for c in cfg.get("categories", [])}
-        return cls(engines=engines, shortcuts=shortcuts, categories=categories)
+        return cls(
+            engines=engines,
+            shortcuts=shortcuts,
+            categories=categories,
+            shortcut_to_name=shortcut_to_name,
+        )
 
     def eats_bang(self, value: str) -> bool:
         # searx/query.py:185 -- '-' and '_' both normalize to a space
         v = value.replace("-", " ").replace("_", " ").lower()
         return v in self.shortcuts or v in self.engines or v in self.categories
+
+    def resolve_engine(self, token: str) -> str | None:
+        """Turn a user-supplied engine token into a real engine name on THIS
+        instance, or None if it isn't one. Accepts the real name ('google cse'),
+        a friendly alias ('google'), or a SearXNG shortcut ('goc')."""
+        t = token.strip().lower()
+        if not t:
+            return None
+        alias = ENGINE_ALIASES.get(t.replace(" ", ""))
+        if alias and alias in self.engines:
+            return alias
+        if t in self.engines:
+            return t
+        if t in self.shortcut_to_name:
+            return self.shortcut_to_name[t]
+        return None
+
+
+# Friendly names people actually type -> the real engine name. Only used if the
+# target engine is actually enabled on the instance (resolve_engine checks).
+# Note there is no plain 'google' engine; the web one is 'google cse'.
+ENGINE_ALIASES = {
+    "google": "google cse",
+    "googlecse": "google cse",
+    "ddg": "duckduckgo",
+    "duck": "duckduckgo",
+    "duckduckgo": "duckduckgo",
+    "brave": "brave",
+    "startpage": "startpage",
+    "bing": "bing",
+    "wikipedia": "wikipedia",
+    "googlenews": "google news",
+    "googlescholar": "google scholar",
+}
 
 
 def _would_be_eaten(token: str, cat: EngineCatalog) -> bool:

@@ -23,15 +23,18 @@ class Profiles:
     @classmethod
     def load(cls, path: str | Path) -> "Profiles":
         raw = yaml.safe_load(Path(path).read_text()) or {}
-        profiles = {
-            name: Profile(
+        profiles = {}
+        for name, spec in (raw.get("profiles") or {}).items():
+            # An explicit `categories: []` means "no category" (so only the named
+            # engines are searched). Only a MISSING key defaults to general.
+            cats = spec.get("categories")
+            categories = tuple(cats) if cats is not None else ("general",)
+            profiles[name] = Profile(
                 name=name,
                 title=spec.get("title", name),
-                categories=tuple(spec.get("categories") or ["general"]),
+                categories=categories,
                 engines=tuple(spec.get("engines") or ()),
             )
-            for name, spec in (raw.get("profiles") or {}).items()
-        }
         return cls(
             profiles=profiles,
             aliases={str(k): v for k, v in (raw.get("aliases") or {}).items()},

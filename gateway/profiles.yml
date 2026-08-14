@@ -15,6 +15,23 @@ profiles:
     categories: [general]
     engines: []          # empty = whatever the SearXNG instance enables for the category
 
+  # Single-engine profiles. `categories: []` is REQUIRED here so only the named
+  # engine is used (a category would merge its other engines back in).
+  google:
+    title: "Google only"
+    categories: []
+    engines: [google cse]
+
+  duckduckgo:
+    title: "DuckDuckGo only"
+    categories: []
+    engines: [duckduckgo]
+
+  brave:
+    title: "Brave only"
+    categories: []
+    engines: [brave]
+
   images:
     title: "Image Search"
     categories: [images]
